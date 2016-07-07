@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About
+title: About Rachel
 permalink: /about/
 ---
 
-Some information about you!
+I graduated from Princeton in 2013 with a B.A. in Mathematics.  
+I started this blog to motivate and document my study of data science.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Side Interests
+
+Side interests include musical theatre, bridge, yoga, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
 
 ### Contact me
 
