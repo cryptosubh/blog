@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July 6th, 2016
+title: First Post
 ---
 
 Today I learned about Simpson's Paradox.  
