@@ -12,7 +12,7 @@ Randall Munroe's attitude towards frequentism is pretty typical for a mathematic
 Speaking on bayesian probabilities, I got the following problem from a potential student.  I didn't end up tutoring him, but I had a lot of fun working on the problem anyway!
 
 > DMD is a serious form of Muscular Dystrophy, a sex-linked recessive disease. 
-> * If a woman is a carrier, her sons have a 50% chance of being affected; daughters have a 50% chance of being carriers
+> * If a woman is a carrier, her sons have a 50% chance of being affected and her daughters have a 50% chance of being carriers
 > * 2/3 of DMD cases are inherited from Mom; 1/3 of DMD cases are due to spontaneous mutations
 > * There is a screening test to check whether a woman is a carrier such that
    + P(T+|C+) = 0.7
