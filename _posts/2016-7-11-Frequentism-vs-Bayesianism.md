@@ -17,5 +17,7 @@ DMD is a serious form of Muscular Dystrophy, a sex-linked recessive disease.
 * There is a screening test to check whether a woman is a carrier such that
   + P(T+|C+) = .7
   + P(T-|C-) = .9  
-Where T+ and T- are the events that the test is positive and negative, respectively, and C+ and C- are the events that a woman is and is not a carrier, respectively. A woman has a child with DMD and then has a screening test done to see if she is a carrier. If the test comes back positive, what is the probability that she is a carrier?  What if the screening test is negative?
+where T+ and T- are the events that the test is positive and negative, respectively, and C+ and C- are the events that a woman is and is not a carrier, respectively. 
+
+A woman has a child with DMD and then has a screening test done to see if she is a carrier. If the test comes back positive, what is the probability that she is a carrier?  What if the screening test is negative?
 
