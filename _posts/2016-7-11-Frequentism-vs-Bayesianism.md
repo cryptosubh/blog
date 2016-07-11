@@ -15,6 +15,6 @@ DMD is a serious form of Muscular Dystrophy, a sex-linked recessive disease.
 * If a woman is a carrier, her sons have a 50% chance of being affected; daughters have a 50% chance of being carriers
 * 2/3 of DMD cases are inherited from Mom; 1/3 of DMD cases are due to spontaneous mutations
 * There is a screening test to check whether a woman is a carrier such that
-... * P(T+|C+) = .7
-... * P(T-|C-) = .9
+...* P(T+|C+) = .7
+...* P(T-|C-) = .9
 
