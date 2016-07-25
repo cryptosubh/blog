@@ -8,7 +8,7 @@ Statistics is an amazing field because it provides us with tools to estimate unk
 To this end, we should all become more discerning consumers of statistics.  We should refuse to quote statistics when we don't have 
 infomation about how these statistics were calculated and the methodologies researchers used to collect data.  And we should treat a statistic without an accompanying standard error as the random variable that it is!
 
-Here are some often-cited statistics of which I am highly skeptical:
+Here are some often-cited statistics of which I am skeptical:
 
 * Women make earn 77 cents for every dollar that men make.
 * 2% of rape accusations are false. {https://www.bloomberg.com/view/articles/2014-09-19/how-many-rape-reports-are-false}
