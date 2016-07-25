@@ -11,4 +11,4 @@ Here are some often-cited that I am suspicious of:
 
 * Women make earn 77 cents for every dollar that men make.
 * 2% of rape accusations are false.
-* By 2100, the average temperature on Earth will rise 8-9 degree Farenheit. [https://www3.epa.gov/climatechange/science/future.html]
+* By 2100, the average temperature on Earth will rise 8-9 degrees Farenheit. [https://www3.epa.gov/climatechange/science/future.html]
