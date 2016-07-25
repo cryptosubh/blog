@@ -6,7 +6,7 @@ title: We Should All Be More Suspicious of Statistics
 Statistics is an amazing field because it provides us with tools to estimate unknowable quantities. It's a big, complicated world out there, and every statistical study has limitations and uncertainties.
 
 To this end, we should all become more discerning consumers of statistics.  We should refuse to quote statistics when we don't have 
-infomation about how these statistics were calculated and the methodologies researchers used to collect data.  And we should remember that a statistic without an accompanying standard error, confidence interval, or alternate measure of uncertainty is not much better than any other randomly-generated quantity!
+infomation about how these statistics were calculated and the methodologies researchers used to collect data.  And we should treat a statistic without an accompanying standard error as the randomly-generated quantity that it is!
 
 Here are some often-cited statistics of which I am highly skeptical:
 
