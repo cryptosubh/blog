@@ -19,4 +19,6 @@ And here's the amazing part: doctor B also does better with severely ill patient
 
 In every example I've seen, both explanatory variables x<sub>1</sub> and x<sub>2</sub> are qualitative and each have a demonstrable and crucially, *opposite*, association with y.  Problems arise when dividing the sample by both factors simultaneously yields unequally-sized classes.  The unequal group sizes give a different weighted average among the classes of factor #2 for each class in factor #1, which can lead to seriously flawed conclusions. 
 
+As fellows at the Brookings Institute point out:
+
 >As our society grows more diverse, Simpson’s paradox may make more frequent appearances. Scholars and policy-makers will have to be mindful as they examine long-term changes of social and economic progress. It would be a shame if real progress in these areas was overlooked because of a naïve reliance on single averages.
