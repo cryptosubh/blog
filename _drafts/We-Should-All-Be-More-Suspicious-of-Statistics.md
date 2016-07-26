@@ -10,6 +10,6 @@ infomation about how these statistics were calculated and the methodologies rese
 
 Here are some often-cited statistics of which I am skeptical:
 
-* Women make earn 77 cents for every dollar that men make.
+* Women earn 77 cents for every dollar that men make.
 * 2% of rape accusations are false. {https://www.bloomberg.com/view/articles/2014-09-19/how-many-rape-reports-are-false}
 * By 2100, the average temperature on Earth will rise 8-9 degrees Farenheit. {https://www3.epa.gov/climatechange/science/future.html}
