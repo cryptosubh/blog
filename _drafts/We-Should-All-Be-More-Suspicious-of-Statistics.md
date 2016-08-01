@@ -18,6 +18,4 @@ The study linked above takes as its denominator accusations that the Northeaster
 So the percentage of rape of accusations that are false is an unknowable quantity, and just like the weather in 100 years, is extremely difficult to estimate. In fact, the only thing that I am quite certain of is that the number is greater than 2%.  
 * Women earn 77 cents for every dollar that men make.  
 This is probably the most legitimate statistic of the three, in that numbers in the high 70s / low 80s are supported by several credible studies, so taken at face value this statement is fairly accurate. However, the number is misleading because it doesn't take into account the fact that women are more likely than men to work in lower-paying industries and to log fewer hours at their job per week.  Additionally, "women" and "men" are such large and diverse groups; when we condition on, say, age, the gap can shrink or reverse!
-* Increasing the minimum wage can create jobs.
-* One in five women is sexually assaulted in college, though only about 12 percent report it to police.  
-It's not possible to know the percentage of women who are sexually assaulted in college. Rape cases usually involve only two people, one or both of which were intoxicated.  And while other heinous crimes like murder are not usually consenual, sex often is.  
+* Increasing the minimum wage can create jobs. Alternatively: Increasing the mininmum wage can make companies paying the higher wages better off.  
