@@ -11,4 +11,6 @@ happening in two, three, or maybe even four dimensions, and after that [have no 
 
 In statistics, there are more methods than theorems, and sometimes methods that are powerful in low dimensions have much less predictive power in higher dimensional scenarios.  Statisticians call this phenomenon the curse of dimensionality, at least they understand precisely why additional dimensions can make problems nearly unsolveable:  
 
-Consider the following set-up.  We have an n-dimensional independent variable x and will use it to predict a one-dimensional variable y.  For simplicity's sake, suppose each coordinate of x is between 0 and 1.  We are given a data set of m > n observations (x, y). 
+Consider the following set-up. We are given a data set of m observations (x, y), where each x has n coordinates, each y has one coordinate, and m > n.  For simplicity's sake, suppose each coordinate of x is between 0 and 1. 
+
+So essentially the curse of dimensionality comes from the fact that the sequence of numbers {.1^n} converges to 0 - quickly. 
