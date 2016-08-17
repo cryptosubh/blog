@@ -7,4 +7,4 @@ Generalizing to higher dimensions is one area where mathematicians have usually 
 mathematicians bravely add another coordinate or change a two to a three and BOOM! 
 
 I've always been fascinated by problems that *don't* generalize -- problems where we can perfectly characterize everything that is 
-happening in two, three, or maybe even four dimensions, and after that have no idea.
+happening in two, three, or maybe even four dimensions, and after that [have no idea] (https://en.wikipedia.org/wiki/Kissing_number_problem).
