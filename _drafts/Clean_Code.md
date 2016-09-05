@@ -14,7 +14,7 @@ Here are some gems from the first couple of chapters:
 <div></div>
 > The proper use of comments is to compensate for our failure to express ourself in code.  Note that I used the word *failure*.  I meant it.  Comments are always failures.  We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
 
-His ideas are simple and powerful.  
+It takes a truly impressive amount of discipline to be so committed to simplicity.
 > Blocks within if statements, else statements, while statements, and so on should be one line long.  Probably that line should be a function call.
 
 <div></div>
