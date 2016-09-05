@@ -11,10 +11,10 @@ In the worst case scenario, which we will call B, you will bang your against a w
 
 As a tutor, I have the privilege of watching people tackle problems that are unfamiliar and challenging to them every single day.  My job is to minimize the amount of time my students spend chasing their tails and embarking down the wrong path by providing hints, and being a friendly and supportive presence :D.
 
-I spend a lot of time thinking about why some of my students end up in situation A versus situation B.  It's complicated, and it depends on a lot of factors, not least of which are intelligence, persistence, and a willingness to be wrong --   
+I spend a lot of time thinking about why some of my students end up in situation A versus situation B.  It depends on a lot of factors, not least of which are intelligence, persistence, and a willingness to be wrong --  factors over which I have little control. 
 
 I used to think that the mess that people write on the page reflects the mess going on inside their 
 
 I am not a particularly tidy person in my personal life.  I leave dishes in the sink and throw my clothes on the floor.  My handwriting is legible but not uniform or beautiful.  I have no talent for sketching or painting.  
 
-Mathematical tidiness is different.  
+Mathematical tidiness is different than personal tidiness.  
