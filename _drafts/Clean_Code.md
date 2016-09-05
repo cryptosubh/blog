@@ -12,4 +12,4 @@ Here are some gems:
 > Side effects are lies.  Your function promises to do one thing, but it also does other *hidden* things.  
 
 <div></div>
-> The proper use of comments is to compensate for our failure to express ourself in code.  Note that I use the word *failure*.  I mean it.  Comments are always failures.  We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
+> The proper use of comments is to compensate for our failure to express ourself in code.  Note that I used the word *failure*.  I meant it.  Comments are always failures.  We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
