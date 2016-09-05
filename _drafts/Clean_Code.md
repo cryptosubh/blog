@@ -19,6 +19,7 @@ It takes a truly impressive amount of discipline to be so committed to simplicit
 
 <div></div>
 > Functions should not be large enough to hold nested structures.  Therefore, the indent level of a function should not be greater than one or two.  
+
 <div></div>
 > The ideal number of arguments for a function is zero (niladic).  Next comes one (monadic), followed closely by two (dyadic)... More than three (polyadic) requires a very special justification  - and shouldn't be used anyway.  
 
