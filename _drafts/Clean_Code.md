@@ -15,7 +15,7 @@ Here are some gems:
 > The proper use of comments is to compensate for our failure to express ourself in code.  Note that I used the word *failure*.  I meant it.  Comments are always failures.  We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
 
 His ideas are simple and powerful.  
-> The ideal number of arguments for a function is zero (niladic).  Next comes one (monadic), followed closely by two (dyadic)... More than three (polyadic) requires a very special justification  - and shouldn't be used anyway.
+> The ideal number of arguments for a function is zero (niladic).  Next comes one (monadic), followed closely by two (dyadic)... More than three (polyadic) requires a very special justification  - and shouldn't be used anyway.  
 Isn't niladic a great word? And isn't it a lot easier to do unit testing on a monadic function than on a polyadic function?
 
 The book is written in Java, which is a bit disappointing to me since I am trying to put Java behind me and focus on What Is Really Important (i.e., python and R).  
