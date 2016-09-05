@@ -19,4 +19,9 @@ His ideas are simple and powerful.
 
 Isn't niladic a great word? And isn't it a lot easier to do unit testing on a monadic function than on a polyadic function?
 
+> Blocks within if statements, else statements, while statements, and so on should be one line long.  Probably that line should be a function call.
+
+<div></div>
+> Functions should not be large enough to hold nested structures.  Therefore, the indent level of a function should not be greater than one or two.  
+
 The book is written in Java, which is a bit disappointing to me as I am trying to put Java behind me and focus on What Is Really Important (i.e., python and R).  The cool part is that every couple of pages I stumble on an aspect of Java that I've never learned; I'm compiling a list, so expect that in an upcoming post!
