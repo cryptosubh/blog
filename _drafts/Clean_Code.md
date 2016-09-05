@@ -5,7 +5,7 @@ title: Clean Code
 
 I'm reading a book called *Clean Code* and it is fantastic.  
 The author, a developer who inexplicably refers to himself as "Uncle Bob", is dramatic, arrogant, obsessive, and brilliant.
-Here are some gems:
+Here are some gems from the first couple of chapters:
 > Flag arguments are ugly.  Passing a boolean into a function is a truly terrible practice.
 
 <div></div>
