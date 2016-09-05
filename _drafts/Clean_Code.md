@@ -19,4 +19,4 @@ His ideas are simple and powerful.
 
 Isn't niladic a great word? And isn't it a lot easier to do unit testing on a monadic function than on a polyadic function?
 
-The book is written in Java, which is a bit disappointing to me since I am trying to put Java behind me and focus on What Is Really Important (i.e., python and R).  
+The book is written in Java, which is a bit disappointing to me as I am trying to put Java behind me and focus on What Is Really Important (i.e., python and R).  The cool part is that every couple of pages I stumble on an aspect of Java that I've never learned; I'm compiling a list, so expect that in an upcoming post!
