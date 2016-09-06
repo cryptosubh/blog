@@ -17,4 +17,4 @@ I used to think that the mess that people write on the page reflected the mess g
 
 I am not a particularly tidy person in my personal life.  I leave dishes in the sink and throw my clothes on the floor.  My handwriting is legible but not uniform or beautiful.  I have no talent for sketching or painting.  
 
-Mathematical tidiness is different than personal tidiness.  
+Mathematical tidiness is different from personal tidiness.  
