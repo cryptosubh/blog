@@ -14,7 +14,7 @@ Side interests include musical theatre, bridge, yoga, the New York Times crosswo
 
 ### Tutoring
 
-I tutor math and CS on the .  
+I tutor math and CS in Manhattan between the east village and the UES. Discounts available if you are taking a class that aligns with my interests :).   
 Click here for my [bio & a few student reviews] (https://www.wyzant.com/Tutors/rachel1792).
 
 ### Contact 
