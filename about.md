@@ -14,7 +14,7 @@ Side interests include musical theatre, bridge, yoga, the New York Times crosswo
 
 ### Tutoring
 
-[bio & reviews] (https://www.wyzant.com/Tutors/rachel1792)
+Click here to read my [bio & a few student reviews] (https://www.wyzant.com/Tutors/rachel1792).
 
 ### Contact 
 
