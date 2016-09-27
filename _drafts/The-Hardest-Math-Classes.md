@@ -7,6 +7,6 @@ Before you click the "READ MORE" link below, take a guess which math class(es) I
 
 Answer: geometry for high schoolers, probability & statistics for college students and young adults.  
 
-Runner-ups: Trignometry, discrete/finite math.  Requests from distressed high schoolers who did worse than expected in geometry last year and are still scarred from the experience. 
+Runner-ups: Trigonometry, discrete/finite math.  Requests from distressed high schoolers who did worse than expected in geometry last year and are still scarred from the experience. 
 
 Notice what doesn't doesn't crack the top 5: Calculus.  Algebra.  
