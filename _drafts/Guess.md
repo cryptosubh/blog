@@ -3,7 +3,7 @@ layout: post
 title: Guess 
 ---
 
-Take a guess which math class(es) I am most requested to tutor. No peeking or cheating!  
+Before you click on the "read more" link at the right, take a guess which math class(es) I am most requested to tutor. No peeking or cheating!  
 
 Answer: geometry for high schoolers, probability & statistics for college students and young adults.  
 
