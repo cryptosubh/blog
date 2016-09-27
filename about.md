@@ -10,7 +10,7 @@ I started this blog to motivate and document my study of data science, and to ga
 
 ### Side Interests
 
-Side interests include musical theatre, bridge, yoga, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
+Side interests include musical theatre, bridge, yoga, shopping at thrift stores in the East Village, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
 
 ### Tutoring
 
