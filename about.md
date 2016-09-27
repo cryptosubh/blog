@@ -16,7 +16,7 @@ Side interests include musical theatre, bridge, yoga, thrift store shopping, the
 
 I tutor Math and CS in Manhattan between the LES and the UES. My per-hour rate is $120 off-wyzant ($150 through wyzant).  Discounts may be available if you are taking a class that aligns with my interests :). 
 
-Click here to read my [bio & a few student reviews] (https://www.wyzant.com/Tutors/rachel1792).
+Click here to read my [bio & a few student reviews](https://www.wyzant.com/Tutors/rachel1792).
 
 ### Contact 
 
