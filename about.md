@@ -10,11 +10,11 @@ I started this blog to motivate and document my study of data science, and to ga
 
 ### Side Interests
 
-Side interests include musical theatre, bridge, yoga, shopping at thrift stores in the East Village, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
+Side interests include musical theatre, bridge, yoga, thrift store shopping, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
 
 ### Tutoring
 
-I tutor math and CS in Manhattan between the east village and the UES. My per-hour rate is $120 off-wyzant ($150 through wyzant).  Discounts may be available if you are taking a class that aligns with my interests :). 
+I tutor Math and CS in Manhattan between the LES and the UES. My per-hour rate is $120 off-wyzant ($150 through wyzant).  Discounts may be available if you are taking a class that aligns with my interests :). 
 
 Click here to read my [bio & a few student reviews] (https://www.wyzant.com/Tutors/rachel1792).
 
