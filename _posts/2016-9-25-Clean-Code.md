@@ -6,7 +6,7 @@ title: Clean Code
 I'm reading a book called *Clean Code* and it is fantastic.  
 The author, a developer who inexplicably refers to himself as "Uncle Bob", is dramatic, arrogant, obsessive, and brilliant.
 Here are some gems from the first couple of chapters: 
-
+<div></div>
 > Flag arguments are ugly.  Passing a boolean into a function is a truly terrible practice.
 
 <div></div>
@@ -16,7 +16,7 @@ Here are some gems from the first couple of chapters:
 > The proper use of comments is to compensate for our failure to express ourself in code.  Note that I used the word *failure*.  I meant it.  Comments are always failures.  We must have them because we cannot always figure out how to express ourselves without them, but their use is not a cause for celebration.
 
 It takes a truly impressive amount of discipline to be so committed to simplicity: 
-
+<div></div>
 > Blocks within if statements, else statements, while statements, and so on should be one line long.  Probably that line should be a function call.
 
 <div></div>
