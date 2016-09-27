@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I graduated from Princeton in 2013 with a B.A. in Mathematics.  
+
 I started this blog to motivate and document my study of data science, and to gain familiarity with github.
 
 
