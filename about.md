@@ -12,8 +12,10 @@ I started this blog to motivate and document my study of data science, and to ga
 
 Side interests include musical theatre, bridge, yoga, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
 
-### Contact me
-
-[rachel1792@gmail.com](mailto:rachel1792@gmail.com)  
+### Tutoring
 
 [Tutoring bio and reviews] (https://www.wyzant.com/Tutors/rachel1792)
+
+### Contact 
+
+[rachel1792@gmail.com](mailto:rachel1792@gmail.com)  
