@@ -13,10 +13,10 @@ My height is in the fifth percentile for women my age.  What percentile do you t
 </ol>
 
 
-Additional questions:
+Additional discussion questions:
 
+* If my sister got in the 92nd percentile for Bio, and 96th percentile for Chem, and the 99th percentiles for both Verbal and Social Sciences, then what in what percentile was her overall MCAT score? (Answer: Very high 99th.)
 * If my mom is the 15th percentile for height and my dad is in the 5th, then why did I end up in the fifth?
-* If 
 * If my husband and I are both in the fifth percentile for height, how much growth hormone will our children need?
 * 
 
