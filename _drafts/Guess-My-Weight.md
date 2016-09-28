@@ -1,6 +1,6 @@
 ---
-layout = post 
-title = Guess My Weight 
+layout: post
+title: Guess My Weight
 ---
 
 My height is in the fifth percentile for women my age.  What percentile do you think I'm in for weight?  
