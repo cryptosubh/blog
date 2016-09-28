@@ -13,4 +13,10 @@ My height is in the fifth percentile for women my age.  What percentile do you t
 </ol>
 
 
+Additional questions:
+
+* If my mom is the 15th percentile for height and my dad is in the 5th, then why did I end up in the fifth?
+* If my husband and I are both in the fifth percentile for height, how much growth hormone will our children need?
+* 
+
 
