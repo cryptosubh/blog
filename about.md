@@ -6,9 +6,9 @@ permalink: /about/
 
 I graduated from Princeton in 2013 with a B.A. in Mathematics.  I started this blog to motivate and document my study of data science, and to gain familiarity with github.
 
-### Side Interests
+### Other Interests
 
-musical theater, bridge, yoga, thrift store shopping, the New York Times crossword puzzle, and watching baseball, basketball, and football. 
+musical theater, bridge, yoga, the New York Times crossword puzzle, and rooting for every NY sports team! 
 
 
 ### Tutoring
