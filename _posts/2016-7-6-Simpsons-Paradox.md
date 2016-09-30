@@ -11,7 +11,7 @@ Every Simpson's paradox involves at least three variables:
 
 If the effect of the observed explanatory variable on the explained variable changes directions when you account for the lurking explanatory variable, you've got a Simpson's Paradox.
 
-The classic example involves two doctors, A and B. Each has treated 100 patients, and doctor A has cured 90 while doctor B has cured 80.  Doctor A has a higher overall success rate than Doctor B.  In this case, success rate is the dependent variable, and doctor is the observed explanatory.  We conclude that doctor A is the superior doctor because he cured a higher percentage of his patients.
+The classic example involves two doctors, A and B. Each has treated 100 patients, and doctor A has cured 90 while doctor B has cured 80.  In this case, success rate is the dependent variable, and doctor is the observed explanatory.  We conclude that doctor A is the superior doctor because he cured a higher percentage of his patients.
 
 Only, not so fast. There's another variable lurking in our sample: severity of illness.  For simplicity, suppose each illness has one of two severities: low and high.  We dig deeper into the data and see that doctor A treated 80 patients with low severity illness and cured 72 (90%) of them.  Doctor B treated only 50 patients with a low severity illness and cured 48 (96%) of them.  So doctor B actually does better with low-severity illness patients.  
 
