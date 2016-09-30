@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Universality of the Uniform
+tags: probability
 ---
 
 Given a continuous random variable X and its cumulative distribution function cdf(), then Y = cdf(X) is a uniform random variable on the interval [0,1].
