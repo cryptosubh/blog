@@ -12,6 +12,7 @@ My height is in the fifth percentile for women my age.  Which percentile do you 
   <li>A lady never tells.</li>
 </ol>
 
+By the way, the correct answer is C.  
 
 Additional discussion questions:
 
