@@ -23,6 +23,6 @@ Additional discussion questions:
 * If my sister scored in the 92nd percentile for Biological Science, and 96th percentile for Physical Science, and the 99th percentiles for both Verbal and Social Science, then in what percentile was her overall MCAT score? (Answer: Very high 99th.)
 * If my mom is the 15th percentile for height and my dad is in the 5th, then where was regression to the mean when I ended up in the fifth?
 * If my husband and I are both in the fifth percentile for height, how much growth hormone will our children need?
-* Do people SAT scores follow regression to the mean when they retake it? (Answer: yes.)
+* Do SAT scores obey regression to the mean when they are retaken? (Answer: yes.)
 
 
