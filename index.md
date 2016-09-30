@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Rachel
+title: Tags & Categories
 permalink: /index/
 ---
 
