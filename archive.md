@@ -9,5 +9,5 @@ permalink: /archive/
 
 ## Statistics
 
-## Math Education
+## Education
 
