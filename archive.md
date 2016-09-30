@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags & Categories
+title: By Category
 permalink: /index/
 ---
 
