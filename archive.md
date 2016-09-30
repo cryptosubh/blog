@@ -1,12 +1,11 @@
 ---
 layout: page
-title: By Category
+title: Topics
 permalink: /archive/
 ---
-
-# Probability
+## Probability
 
 ## Coding
 
-### Statistics
+## Statistics
 
