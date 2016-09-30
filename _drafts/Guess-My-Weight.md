@@ -8,11 +8,15 @@ My height is in the fifth percentile for women my age.  Which percentile do you 
 <ol type="a">
   <li>5th percentile</li>
   <li>10th percentile, so I should lose 8 pounds to get down to the 5th.</li>
-  <li>10th percentile, which is probably about average for my height.</li>
+  <li>10th percentile, which is probably close to average for my height.</li>
   <li>A lady never tells.</li>
 </ol>
 
-By the way, the correct answer is C.  
+This question illustrates a statistical phenomenon called **regression the the mean**. If two random variables X and Y have positive but imperfect correlation, then, given x, the percentile rank of X, we'd expect the percentile rank for Y to like somewhere between x and the 50th percentile. 
+
+It's clear that height and weight have positive but imperfect correlation.  Positive because on balance, tall people tend to weigh more than their shorter counterparts.  Imperfect because a tall thin person could weigh less than a short body builder.
+
+By the way, the correct answer is C.  Expecting me to be in the same percentile for height and weight is equivalent to expecting height and weight to be perfectly correlated.  Being in a higher percentile for weight than height just means that I'm not quite as light as I am short, which, given how short I am, is probably a good thing.  
 
 Additional discussion questions:
 
