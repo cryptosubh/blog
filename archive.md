@@ -11,9 +11,9 @@ permalink: /archive/
 [Clean Code](https://rachel1792.github.io/Clean-Code/)
 
 ## Statistics
-https://rachel1792.github.io/Curse-of-Dimensionality/  
-https://rachel1792.github.io/Frequentism-vs-Bayesianism/  
-https://rachel1792.github.io/Simpsons-Paradox/  
+[Curse of Dimensionality]https://rachel1792.github.io/Curse-of-Dimensionality/  
+[Frequentism]https://rachel1792.github.io/Frequentism-vs-Bayesianism/  
+[Simpson's Paradox]https://rachel1792.github.io/Simpsons-Paradox/  
 
 ## Education
 
