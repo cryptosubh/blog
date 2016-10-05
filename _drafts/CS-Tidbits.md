@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS Tidbits I'm Trying to Pick Up
+title: CS Tidbits I've Been Picking Up
 ---
 
 * **Try/Catch**
