@@ -12,7 +12,7 @@ My height is in the fifth percentile for women my age.  Which percentile do you 
   <li>A lady never tells.</li>
 </ol>
 
-This question illustrates a statistical phenomenon called **regression the the mean**. If two random variables X and Y have positive but imperfect correlation, then, given x, the percentile rank of X, we'd expect the percentile rank for Y to lie somewhere between x and the 50th percentile. 
+This question illustrates a statistical phenomenon called **regression the the mean**. If two random variables X and Y have positive but imperfect correlation, then, given x, the percentile rank of X, we'd expect the percentile rank for Y to lie somewhere between x and the 50th percentile.  (Note that if x>50, then the percentile rank for Y lies between 50 and x.)
 
 It's clear that height and weight have positive but imperfect correlation.  Positive because on balance, tall people tend to weigh more than their shorter counterparts.  Imperfect because a tall thin person could weigh less than a short body builder.
 
@@ -20,7 +20,7 @@ So we see that the correct answer is C.  Expecting me to be in the same percenti
 
 Additional discussion questions:
 
-* If my sister scored in the 92nd percentile for Biological Science, and 96th percentile for Physical Science, and the 99th percentiles for both Verbal and Social Science, then in what percentile was her overall MCAT score? (Answer: Very high 99th.)
+* If my sister scored in the 92nd percentile for Biological Science, and 96th percentile for Physical Science, and the 99th percentiles for both Verbal and Social Science, then in what percentile was her overall MCAT score? (Answer: Very very high 99th.)
 * If my mom is the 15th percentile for height and my dad is in the 5th, then where was regression to the mean when I ended up in the fifth?
 * If my husband and I are both in the fifth percentile for height, how much growth hormone will our children need?
 * Do SAT scores obey regression to the mean when they are retaken? (Answer: yes.)
