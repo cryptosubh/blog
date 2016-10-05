@@ -7,7 +7,7 @@ Generalizing to higher dimensions is one area where mathematicians have usually 
 mathematicians bravely add another coordinate or change a two to a three and BOOM! 
 
 I've always been fascinated by proofs that *don't* generalize -- problems where we can perfectly characterize everything that is 
-happening in two, three, or maybe even four dimensions, and after that [have no idea](https://en.wikipedia.org/wiki/Kissing_number_problem).
+happening in two, three, or maybe even four dimensions, and after that [have no idea](https://en.wikipedia.org/wiki/Kissing_number_problem).  (Note: Fermat's Last Theorem used to fall into this category.)
 
 In statistics, we often deal with methods rather than theorems, and sometimes methods that are powerful in low dimensions have much less predictive power in higher dimensional scenarios.  Statisticians call this phenomenon the curse of dimensionality, at least they understand precisely why additional dimensions can make problems nearly unsolveable:  
 
