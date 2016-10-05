@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Elements in Python
+title: The Pythonic Way
 ---
 
 * Vectorization
