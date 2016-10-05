@@ -6,9 +6,9 @@ title: Guess My Weight
 My height is in the fifth percentile for women my age.  Which percentile do you think I'm in for weight?
 <ol type="a">
   <li>5th percentile</li>
-  <li>10th percentile, so I should lose 8 pounds to get down to the 5th.</li>
-  <li>10th percentile, which is probably close to average for my height.</li>
-  <li>A lady never tells.</li>
+  <li>10th percentile, so I should lose 8 pounds to get down to the 5th</li>
+  <li>10th percentile, which is probably close to average for my height</li>
+  <li>A lady never tells</li>
 </ol>
 
 This question illustrates a statistical phenomenon called **regression the the mean**. If two random variables X and Y have positive but imperfect correlation, then, given x, the percentile rank of X, we'd expect the percentile rank for Y to lie somewhere between x and the 50th percentile.  (Note that if x>50, then the expected percentile rank for Y lies between 50 and x.)
