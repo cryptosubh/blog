@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Curse of Dimesionality
+title: The Curse of Dimensionality
 ---
 
 Generalizing to higher dimensions is one area where mathematicians have usually excelled.  While others fear what they cannot visualize, 
