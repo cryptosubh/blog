@@ -19,7 +19,7 @@ I used to think that the mess that people write on the page reflected the mess g
 
 I still believe this is true, but it is only part of the truth about the page in front of you.  The truth is that when you are working on a problem that you don't know how to solve, you can't possibly keep all the information and features of the problems in your head simultaneously.  (This is almost by definition; if you could, then you would probably know how to solve the problem.)  Therefore, my students are constantly rereading what they just wrote; they rely on their written work to inform their next move/decision.
 
-So the mess in your head may contribute to the mess on the page, but the mess on the page further confounds the mess inside your head - it's a vicious cycle!  They most efficient way to break the cycle is to attack it from both ends. 
+So the mess in your head may contribute to the mess on the page, but the mess on the page further confounds the mess inside your head - it's a vicious cycle!  The most efficient way to break the cycle is to attack it from both ends. 
 
 I am not a particularly tidy person in my personal life.  I leave dishes in the sink and throw my clothes on the floor.  My handwriting is legible but not uniform or beautiful.  I have no talent for sketching or painting.  
 
