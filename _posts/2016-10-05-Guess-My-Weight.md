@@ -15,7 +15,9 @@ This question illustrates a statistical phenomenon called **regression the the m
 
 It's clear that height and weight have positive but imperfect correlation.  Positive because on balance, tall people tend to weigh more than their shorter counterparts.  Imperfect because a tall thin person could weigh less than a short body builder.
 
-So we see that the correct answer is C.  Since height and weight are positively correlated, I'll probably be lighter than the average woman.  But expecting me to be in the same percentile for height and weight is equivalent to expecting height and weight to be perfectly correlated.  Being in a higher percentile for weight than height just means that I'm not quite as light as I am short, which, given how short I am, is probably a good thing.  
+So we see that the correct answer is C.  Since height and weight are positively correlated, I'll probably be lighter than the average woman.  But expecting me to be in the same percentile for height and weight is equivalent to expecting height and weight to be perfectly correlated.  Being in a higher percentile for weight just means that I'm not quite as light as I am short, which, given how short I am, is probably a good thing. 
+
+It's certainly possible to be in the fifth percentile for both height and weight.  But we wouldn't expect it, just like we wouldn't expect lightning to strike the same place twice. 
 
 Additional discussion questions:
 
