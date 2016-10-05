@@ -17,4 +17,4 @@ In most high schools, calculus is considered the crowning acheivement of your ma
 
 At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year but it wouldn't fit in my schedule.)  
 
-I think this system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to a broad range of fields.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  
+I think this system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to a much broader range of fields than Calculus does.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  So it's particularly illogical to reserve statistics for the least mathematically-inclined students.
