@@ -13,7 +13,7 @@ Notice what doesn't doesn't crack the top 5: Calculus.  Pre-calculus. Algebra.
 
 Hopefully, upon reflection, my readers can relate.  I certainly can.  Geometry was without a doubt my weakest math area in high school.  Whenever I took a math competition, I'd auto-skip the harder geometry questions: I knew 30-60-90 triangles and parallel line theorems, but after that I was pretty much out of tricks.  When I had to visualize higher dimensions for multivariable calculus, . 
 
-In most high schools, calculus is considered the crowning acheivement of your mathematical career, a course only to be attempted after the rigorous and highly-redundant two-year algII/precalc sequence.  
+In most high schools, calculus is considered the crowning acheivement of your mathematical career, a course only to be attempted after the redundant algII/precalc sequence.  
 
 At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year and but it wouldn't fit in my schedule.)  
 
