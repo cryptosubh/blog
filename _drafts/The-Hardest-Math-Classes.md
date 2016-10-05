@@ -15,6 +15,6 @@ Hopefully, upon reflection, my readers can relate.  I certainly can.  Geometry w
 
 In most high schools, calculus is considered the crowning acheivement of your mathematical career, a course only to be attempted after the redundant algII/precalc sequence.  
 
-At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year and but it wouldn't fit in my schedule.)  
+At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year but it wouldn't fit in my schedule.)  
 
 I think this system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to as many if not more fields than calculus does.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  
