@@ -3,7 +3,7 @@ layout: page
 title: Topics
 permalink: /archive/
 ---
-## Coding
+## Programming
 [Clean Code](https://rachel1792.github.io/Clean-Code/)
 
 ## Probability & Statistics
