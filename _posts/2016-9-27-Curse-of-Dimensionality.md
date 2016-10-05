@@ -13,7 +13,7 @@ The parallel situation in statistics is sometimes methods that are powerful in l
 
 Consider the following set-up. We are given a data set of m observations (x, y), where each x has n coordinates, each y has one coordinate, and m > n.  For simplicity's sake, suppose each coordinate of x is between 0 and 1, so each x lies in the n-dimensional hypercube of side length one. 
 
-For a given n-dim x\*, we wish to predict the corresponding y\*.  We do so by taking all the x's in our data set such that each coordinate value of x is within 0.1 of the corresponding coordinate value of x\*.  Call this set X\*.  Note that X\* has a volume of at most (.2^n). The idea is that average y value for all x's in X\* is probably a reasonable estimate for y\*.  This is called a nearest neighboor method. 
+For a given n-dim x\*, we wish to obtain a prediction for the corresponding y\*.  We do so by taking all the x's in our data set such that each coordinate value of x is within 0.1 of the corresponding coordinate value of x\*.  Call this set X\*.  Note that X\* has a volume of at most (.2^n). The idea is that average y value for all x's in X\* is probably a reasonable estimate for y\*.  This is called a nearest neighboor method. 
 
 For n = 2, we'd expect around 20% of the m data points to lie in X\*.  This is enough data to make a good approximation for y\*.  
 
