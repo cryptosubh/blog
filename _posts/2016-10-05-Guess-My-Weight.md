@@ -4,7 +4,7 @@ title: Guess My Weight
 ---
 
 My height is in the fifth percentile for women my age.  Which percentile do you think I'm in for weight?  
-/_ a. 5th percentile  
+ a. 5th percentile  
  b. 10th percentile, so I should lose 8 pounds to get down to the 5th  
  c. 10th percentile, which is probably close to average for my height  
  d. A lady never tells  
