@@ -17,12 +17,12 @@ Because I'm not a particularly controlling or anal person, I wouldn't have expec
 
 I used to think that the mess that people write on the page reflected the mess going on inside their heads, that they are dealing with concepts who nuances they do not understand and therefore could not translate into written form.  I thought it was my job to organize the mess in their heads, and that the paper they worked on would follow suit.  
 
-I still believe this is true, but it is only part of the truth about the page in front of you.  The truth is that when you are working on a problem that you don't know how to solve, you can't possibly keep all the information and features of the problems in your head simultaneously.  (This is almost by definition; if you could, then you would probably know how to solve the problem.)  Therefore, my students....  
+I still believe this is true, but it is only part of the truth about the page in front of you.  The truth is that when you are working on a problem that you don't know how to solve, you can't possibly keep all the information and features of the problems in your head simultaneously.  (This is almost by definition; if you could, then you would probably know how to solve the problem.)  Therefore, my students are constantly rereading what they just wrote; they rely on their written work to inform their next move/decision.
 
-So the messs in your head may contribute to the mess on the page, but the mess on the page further confounds the mess inside your head - it's a vicious cycle!  They most efficient way to break the cycle is to attack it from both ends: to be hypervigilant about the tidiness of your written work.
+So the mess in your head may contribute to the mess on the page, but the mess on the page further confounds the mess inside your head - it's a vicious cycle!  They most efficient way to break the cycle is to attack it from both ends. 
 
 I am not a particularly tidy person in my personal life.  I leave dishes in the sink and throw my clothes on the floor.  My handwriting is legible but not uniform or beautiful.  I have no talent for sketching or painting.  
 
 Mathematical tidiness is different from personal tidiness.  Mathematical tidiness is attention to detail and respect for logic and order.  Mathematical tidiness is trusting that the organization of mathematical structures will reveal the correct answer to the problem.  
 
-I therefore have a zero tolerance policy towards mathematical messiness.  My students don't have to do their homework or pay attention in class.  But while we sit together they must take great care in everything they write down.  If this isn't possible, then your problems are in organization and effort, not in the mathematics, and I am not the right tutor for you!
+I therefore have a zero tolerance policy towards mathematical messiness.  My students don't have to do their homework or pay attention in class.  But while we sit together they must be hypervigilant about the tidiness of their written work.  If this isn't possible, then your problems are in organization and effort, not in the mathematics, and I am not the right tutor for you!
