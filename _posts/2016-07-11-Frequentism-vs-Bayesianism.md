@@ -9,7 +9,7 @@ I asked a friend to explain the difference between frequentism and bayesianism a
 
 So now I understand frequentism.  Thank you, xkcd, for succeeding where both crossvalidated.com and Nate Silver have failed.
 
-My ignorance of frequentism underscores the fact that most mathematicians emphasize Bayesian over frequentist principles.  And yet almost every technique taught in AP Statistics is grounded in frequentism, from hypothesis intervals to confidence tests.  Sorry to play both sides, but I see merit in each methodology. 
+My ignorance of frequentism underscores the fact that most mathematicians emphasize Bayesian over frequentist principles.  And yet almost every technique taught in AP Statistics is grounded in frequentism, from hypothesis tests to confidence intervals.  Sorry to play both sides, but I see merit in each methodology. 
 
 Speaking of bayesian probabilities, I got the following problem from a potential student.  I didn't end up tutoring him, but I had fun working on the problem anyway.
 
