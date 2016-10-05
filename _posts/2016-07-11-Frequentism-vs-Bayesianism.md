@@ -9,7 +9,7 @@ I asked a friend to explain the difference between frequentism and bayesianism a
 
 Most mathematicians emphasize Bayesian over frequentist principles.  And yet almost every technique taught in AP Statistics is grounded in frequentism, from hypothesis intervals to confidence tests.  Sorry to play both sides, but I see merit in each methodology. 
 
-Speaking of bayesian probabilities, I got the following problem from a potential student.  I didn't end up tutoring him, but I had a lot of fun working on the problem anyway!
+Speaking of bayesian probabilities, I got the following problem from a potential student.  I didn't end up tutoring him, but I had fun working on the problem anyway.
 
 > DMD is a serious form of Muscular Dystrophy, a sex-linked recessive disease. 
 
