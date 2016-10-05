@@ -9,7 +9,7 @@ Answer: geometry for high schoolers, probability & statistics for college studen
 
 Runner-ups: Trigonometry, discrete/finite math.  Requests from distressed high schoolers who did worse than expected in geometry last year and are still scarred from the experience. 
 
-Notice what doesn't doesn't crack the top 5: Calculus.  Algebra.  
+Notice what doesn't doesn't crack the top 5: Calculus.  Pre-calculus. Algebra.  
 
 Hopefully, upon reflection, my readers can relate.  I certainly can.  Geometry was without a doubt my weakest math area in high school.  Whenever I took a math competition, I'd auto-skip the harder geometry questions: I knew 30-60-90 triangles and parallel line theorems, but after that I was pretty much out of tricks.  When I had to visualize higher dimensions for multivariable calculus, . 
 
