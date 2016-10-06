@@ -14,3 +14,5 @@ Now suppose the Princeton Committee for Diversity & Inclusion surveys the studen
 Five years later, the first batch of LRH students graduates with the rest of their class. How do you think they fared academically at Princeton?
 
 Now, I have no reason to believe that handed-ness, hair color, or hermaphrodite status has any correlation with academic performance or even intelligence in the general population.  But the LRH students aren't competing against the general population.  They are competiting against Princeton undergrads, most of whom were specifically chosen for their intelligence and past academic performance.  So I'd expect those LRH to do very, very badly at Princeton.
+
+Let's recap what happened.  
