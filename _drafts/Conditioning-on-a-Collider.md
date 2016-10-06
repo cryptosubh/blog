@@ -7,6 +7,10 @@ I'm trying to come up with a cute, terse way to illustrate the phenomenon of con
 
 Conditioning on a collider is a special case of selection bias, where the sample studied doesn't accurately reflect the makeup of the population that we wish to draw conclusions about.  The selection bias occurs because inclusion in the sample is determined based upon two (usually independent) factors. It's tough to conceptualize without an example so let's dive right in.
 
-Admission to Princeton University is based upon a lot of factors, including grades, scores, recommendations, extracurriculars, and a  personal essay.  Let's roll up all those factors and just call them "high school record".  Obviously, the process is complicated and subjective, but let's just agree that the admission committee looks at each applicant's high school record and accepts the top 5% of students.  
+Admission to Princeton University is based upon a lot of factors, including grades, scores, recommendations, extracurriculars, and a  personal essay.  Let's roll up all these factors and just call them "high school record".  Obviously, the process is complicated and subjective, but let's just agree that the admission committee looks at each applicant's high school record and accepts the top 5% of students.  
 
 Now suppose the Princeton Committee for Diversity & Inclusion surveys the student body and discovers a shocking paucity of left-handed, red-headed, hermaphrodites (henceforth referred to as LRHs) among the university community.  The Diversity Committee writes a strongly-worded letter to the Admissions Committee suggesting that they accept all LRH applicants going forward.  
+
+Five years later, the first batch of LRH students graduates with the rest of their class. How do you think they fared academically at Princeton?
+
+Now, I have no reason to believe that handed-ness, hair color, or hermaphrodite status has any correlation with academic performance or even intelligence in the general population.  
