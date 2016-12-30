@@ -9,7 +9,7 @@ My height is in the fifth percentile for women my age.  Which percentile do you 
  c. 10th percentile, which is probably close to average for my height  
  d. A lady never tells  
 
-This question illustrates a statistical phenomenon called **regression the the mean**. If two random variables X and Y have positive but imperfect correlation, then, given x, the percentile rank of X, we'd expect the percentile rank for Y to lie somewhere between x and the 50th percentile.  (Note that if x>50, then the expected percentile rank for Y lies between 50 and x.)
+This question illustrates a statistical phenomenon called **regression to the mean**. If two random variables X and Y have positive but imperfect correlation, then, given x, the percentile rank of a single observation of X, we'd expect the percentile rank for the corresponding observation of Y to lie somewhere between x and the 50th percentile.  (Note that if x>50, then the expected percentile rank for Y lies between 50 and x.)
 
 It's clear that height and weight have positive but imperfect correlation.  Positive because on balance, tall people tend to weigh more than their shorter counterparts.  Imperfect because a tall thin person could weigh less than a short body builder.
 
