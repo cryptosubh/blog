@@ -7,9 +7,9 @@ Generalizing to higher dimensions is one area where mathematicians have usually 
 mathematicians bravely add another coordinate or change a two to a three and BOOM! 
 
 I've always been fascinated by proofs that *don't* generalize -- problems where we can perfectly characterize everything that is 
-happening in two, three, or maybe even four dimensions, and after that [have no idea](https://en.wikipedia.org/wiki/Kissing_number_problem).  (Note: Fermat's Last Theorem used to fall into this category.)
+happening in two, three, or maybe even four dimensions, and after that [have no idea](https://en.wikipedia.org/wiki/Kissing_number_problem).  (Fermat's Last Theorem used to fall into this category.)
 
-The parallel situation in statistics is sometimes methods that are powerful in low dimensions have much less predictive power in higher dimensional scenarios.  Statisticians call this phenomenon the curse of dimensionality, and they understand precisely why additional dimensions can make problems nearly unsolveable:  
+There's the parallel situation in statistics: sometimes methods that are powerful in low dimensions have much less predictive power in higher dimensional scenarios.  Statisticians call this phenomenon the curse of dimensionality, and they understand precisely why additional dimensions can make problems nearly unsolveable:  
 
 Consider the following set-up. We are given a data set of m observations (x, y), where each x has n coordinates, each y has one coordinate, and m > n.  For simplicity's sake, suppose each coordinate of x is between 0 and 1, so each x lies in the n-dimensional hypercube of side length one. 
 
