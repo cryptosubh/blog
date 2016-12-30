@@ -8,7 +8,7 @@ I graduated from Princeton in 2013 with a B.A. in Mathematics.  I started this b
 
 ### Other Interests
 
-musical theater, bridge, yoga, the New York Times crossword puzzle, watching football & basketball
+musical theater, yoga, puzzles and strategy games (including bridge, acquire and the New York Times crossword puzzle), watching football & basketball
 
 ### Contact 
 
