@@ -2,6 +2,8 @@
 layout: post
 title: CS Tidbits I've Been Picking Up
 ---
+Most of the definitions are copied from Wikipedia.
+
 
 * **Try/Catch**
 * **Aliasing**  
