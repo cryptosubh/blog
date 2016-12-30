@@ -25,4 +25,4 @@ I am not a particularly tidy person in my personal life.  I leave dishes in the 
 
 Mathematical tidiness is different from personal tidiness.  Mathematical tidiness is attention to detail and respect for logic and order.  Mathematical tidiness is trusting that the organization of mathematical structures will reveal the correct answer to the problem.  
 
-I therefore have a zero tolerance policy towards mathematical messiness.  My students don't have to do their homework or pay attention in class.  But while we sit together they must be hypervigilant about the tidiness of their written work.  If this isn't possible, then your problems are in organization and effort, not in the mathematics, and I am not the right tutor for you!
+I therefore have a zero tolerance policy towards mathematical messiness.  My students don't have to do their homework or pay attention in class.  But while we sit together they must be hypervigilant about the tidiness of their written work.  If this isn't possible, then your problems are in organization and effort, not in the mathematics, and I am probably not the right tutor for you.
