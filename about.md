@@ -11,7 +11,7 @@ Anyone familiar with college-level statistics and object-oriented programming.
 
 ### Other Interests
 
-musical theater, yoga, bridge, the New York Times crossword puzzle), watching football & basketball
+musical theater, yoga, bridge, the New York Times crossword puzzle, watching football & basketball
 
 ### Contact 
 
