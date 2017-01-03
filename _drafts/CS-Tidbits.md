@@ -9,7 +9,7 @@ Most of the definitions are copied from Wikipedia.
 * **Call Stack**  
 A stack data structure that stores information about the active subroutines of a computer program.  A call stack is composed of *stack frames* (also called activation records or activation frames).
 * **Stack Trace** or **Traceback**  
-A report of the active stack frames at a certain point in time during the execution of a program
+A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
 * **Aliasing**  
 A situation in which a data location in memory can be accessed through different symbolic names in the program. Thus, modifying the data through one name implicitly modifies the values associated with all aliased names.
 * **Scope**  
