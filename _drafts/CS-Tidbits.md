@@ -5,7 +5,6 @@ title: CS Tidbits I've Been Picking Up
 Most of the definitions are copied from Wikipedia.
 
 
-* **Try/Catch**
 * **Call Stack**  
 A stack data structure that stores information about the active subroutines of a computer program.  A call stack is composed of *stack frames* (also called activation records or activation frames).
 * **Stack Trace** or **Traceback**  
