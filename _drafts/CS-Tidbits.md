@@ -9,6 +9,12 @@ Most of the definitions are copied from Wikipedia.
 A stack data structure that stores information about the active subroutines of a computer program.  A call stack is composed of *stack frames* (also called activation records or activation frames).
 * **Stack Trace** or **Traceback**  
 A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
+* **Protocol**
+a common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).
+* **Multi-Inheritance**
+A feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class.
+* **Diamond Problem**
+An ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. If there is a method in A that B and C have overridden, and D does not override it, then which version of the method does D inherit: that of B, or that of C?  It only occurs when multi-inheritance is allowed.  Python mitigates this problem with an order of inheritance determined by the C3 linearization algorithm.
 * **Aliasing**  
 A situation in which a data location in memory can be accessed through different symbolic names in the program. Thus, modifying the data through one name implicitly modifies the values associated with all aliased names.
 * **Scope**  
