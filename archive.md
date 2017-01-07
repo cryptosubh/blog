@@ -4,7 +4,7 @@ title: Topics
 permalink: /archive/
 ---
 ## Programming
-[Clean Code](https://rachel1792.github.io/Clean-Code/)
+[Clean Code](https://rachel1792.github.io/Clean-Code/)  
 [CS Tidbits](https://rachel1792.github.io/CS-Tidbits/)
 
 
