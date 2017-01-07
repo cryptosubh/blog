@@ -11,6 +11,8 @@ A stack data structure that stores information about the active subroutines of a
 A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
 * **Protocol**  
 A common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).
+* **Multithreading**  
+The ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system. This approach differs from multiprocessing, as with multithreading the processes and threads share the resources of a single or multiple cores.
 * **Multi-Inheritance**  
 A feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class.
 * **Diamond Problem**  
