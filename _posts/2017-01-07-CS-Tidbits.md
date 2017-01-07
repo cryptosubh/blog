@@ -33,11 +33,6 @@ In computer programming, the scope of a name binding – an association of a nam
 Syntax within a programming language that is designed to make things easier to read or to express. It makes the language "sweeter" for human use: things can be expressed more clearly, more concisely, or in an alternative style that some may prefer.  
 Specifically, a construct in a language is called syntactic sugar if it can be removed from the language without any effect on what the language can do: functionality and expressive power will remain the same.  
 Examples from Python: decorators, list comprehension, accessing matrix elements by index
-*  **Decorators**
-Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses. 
-*  **Annotations**  
-like decorators for java programs!
-preceded by the at sign (@) - @ = AT, as in annotation type
 * **Race Condition**  
 The behavior of an electronic, software or other system where the output is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when events do not happen in the order the programmer intended. The term originates with the idea of two signals racing each other to influence the output first.
 * **Polymorphism**  
@@ -49,4 +44,11 @@ In computer science, polymorphism is the provision of a single interface to enti
   generic programming
   - *subtyping*:
   when a name denotes instances of many different classes related by some common superclass
+  
+//under construction
+*  **Decorators**
+Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses. 
+*  **Annotations**  
+like decorators for java programs!
+preceded by the at sign (@) - @ = AT, as in annotation type
 
