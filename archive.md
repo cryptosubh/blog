@@ -5,6 +5,8 @@ permalink: /archive/
 ---
 ## Programming
 [Clean Code](https://rachel1792.github.io/Clean-Code/)
+[CS Tidbits](https://rachel1792.github.io/CS-Tidbits/)
+
 
 ## Probability & Statistics
 [Regression to the Mean](https://rachel1792.github.io/Guess-My-Weight/)  
