@@ -3,7 +3,7 @@ layout: post
 title: What are the Hardest Math Classes? 
 ---
 
-Before you click the "READ MORE" link below, take a guess which math class(es) I am most requested to tutor. No peeking!  
+Before you click the "READ MORE" link below, take a guess which math class(es) I am most often requested to tutor. No peeking!  
 
 Answer: geometry for high schoolers, probability & statistics for college students and young adults.  
 
@@ -17,8 +17,10 @@ At most high schools, calculus is considered the crowning acheivement of your ma
 
 At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite-math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year but it conflicted with my schedule.)  
 
-It's probably true that students struggle more with geometry and statistics because they are inherently "harder" (read: more abstract and less procedural) than calculus and algebra.  It's also true that most high school curricula heavily emphasize calc/algebra at the expense of every other branch of mathematics.  
+It's probably true that students struggle more with geometry and statistics because they are inherently "harder" (read: more abstract and less procedural) than calculus and algebra.  It's also true that most high school curricula heavily emphasize calc/algebra at the expense of every other branch of mathematics, so that by the time they reach 12th grade, most students are much better prepared to take AP Calc than to take AP Stats.  Indeed, most people I know who have taken both simultaneously find that they are doing worse in statistics.  
 
 This system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to a much broader range of fields than calculus does.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  So it's particularly illogical to reserve statistics for the least mathematically-inclined students.
 
 Luckily, this system is starting to change. Books by Nasim Taleb and Nate Silver have revealed the importance of a prob/stat education and the dangers of a statistically illiterate society.  Top schools in NYC like Hunter are introducing prob/stat concepts in middle school and revisiting them during every year of high school - and I believe other schools will eventually follow their lead.  
+
+One of the great things about tutoring is that I have a second chance at subjects I never quite mastered the first time around.  Some of the statistics I'm learning makes it into this blog.  My brain is quite cluttered with useless geometry theorems, constructions, and proofs.  
