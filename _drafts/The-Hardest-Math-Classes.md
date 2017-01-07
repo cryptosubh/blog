@@ -15,9 +15,9 @@ Hopefully, upon reflection, my readers can relate.  I certainly can.  Geometry w
 
 At most high schools, calculus is considered the crowning acheivement of your mathematical career, a course only to be attempted after the redundant algII/precalc sequence.  (The redundancy of algebra II followed by pre-calculus is a topic for another post.)
 
-At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite-math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year but it conflicted with my otherwise very basic 11th grade schedule.)  
+At my high school, almost everyone took calculus except for a small handful of the weakest students, who were relegated to some statistics/finite-math mash-up class.  Almost no one took AP stats. (I tried to sign up junior year but it conflicted with my schedule.)  
 
-It's probably true that students struggle with geometry and statistics because they are inherently "harder" (read: more abstract and less procedural) than calculus and algebra.  It's also true that most high school curricula heavily emphasize calc/algebra at the expense of every other branch of mathematics.  
+It's probably true that students struggle more with geometry and statistics because they are inherently "harder" (read: more abstract and less procedural) than calculus and algebra.  It's also true that most high school curricula heavily emphasize calc/algebra at the expense of every other branch of mathematics.  
 
 This system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to a much broader range of fields than calculus does.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  So it's particularly illogical to reserve statistics for the least mathematically-inclined students.
 
