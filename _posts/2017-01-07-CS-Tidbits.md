@@ -49,7 +49,7 @@ The ability of a central processing unit (CPU) or a single core in a multi-core 
 
 //under construction  
 A **character** is a minimal unit of text that has semantic value.  
-A **character** set is a collection of characters that might be used by multiple languages.  
+A **character set** is a collection of characters that might be used by multiple languages.  
 Example: The Latin character set is used by English and most European languages, though the Greek character set is used only by the Greek language.  
 
 A **coded character set** is a character set in which each character corresponds to a unique number.  
