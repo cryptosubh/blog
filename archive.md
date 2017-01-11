@@ -9,7 +9,7 @@ permalink: /archive/
 
 
 ## Probability & Statistical Theory
-[Correlation vs Independence/](https://rachel1792.github.io/Correlation-vs-Independence/)  
+[Correlation vs Independence](https://rachel1792.github.io/Correlation-vs-Independence/)  
 [Regression to the Mean](https://rachel1792.github.io/Guess-My-Weight/)  
 [The Curse of Dimensionality](https://rachel1792.github.io/Curse-of-Dimensionality/)  
 [Universality of the Uniform](https://rachel1792.github.io/Universality-of-the-Uniform/)  
