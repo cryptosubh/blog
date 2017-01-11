@@ -2,15 +2,13 @@
 layout: post
 title: CS Tidbits I've Been Picking Up
 ---
-Most of the definitions are copied from Wikipedia.
+Languages may come and go, but theory is forever.  Most of the definitions are copied from Wikipedia.
 
 
 * **Call Stack**  
 A stack data structure that stores information about the active subroutines of a computer program.  A call stack is composed of *stack frames* (also called activation records or activation frames).
 * **Stack Trace** or **Traceback**  
 A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
-* **Protocol**  
-A common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).
 * **Multithreading**  
 The ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system. This approach differs from multiprocessing, as with multithreading the processes and threads share the resources of a single or multiple cores.
 * **Multi-Inheritance**  
@@ -46,6 +44,8 @@ In computer science, polymorphism is the provision of a single interface to enti
   generic programming
   - *subtyping*:
   when a name denotes instances of many different classes related by some common superclass
+* **Protocol**  
+A common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).
   
 //under construction  
 *  **Decorators**
