@@ -7,5 +7,5 @@ title: The Pythonic Way
 * Generators
 * Dynamic Typing
 * Everything is an Object
-* Functions as arguments
+  * Functions as arguments
 * List Comprehension
