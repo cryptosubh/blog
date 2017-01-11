@@ -3,7 +3,7 @@ layout: post
 title: Correlation versus Independence 
 ---
 
-If two random variables are independent, can they be correlated?  If another two random variables have zero correlation, must they be independent?
+If two random variables are independent, can they be correlated?  If another two random variables have zero correlation, can they be independent?
 
 The answers are no and yes, and here's an example to illustrate why.  Suppose X is uniformly distributed on the interval [-1,1], and Y = X^2.  The expectation of X, conditional on Y=y, is always 0 regardless of y.  So X and Y are not correlated. However, Y is clearly not independent of X.  
 
