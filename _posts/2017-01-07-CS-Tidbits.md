@@ -5,16 +5,21 @@ title: CS Tidbits I've Been Picking Up
 Languages may come and go, but theory is forever.  Most of the definitions are copied from Wikipedia.
 
 
-* **Call Stack**  
-A stack data structure that stores information about the active subroutines of a computer program.  A call stack is composed of *stack frames* (also called activation records or activation frames).
-* **Stack Trace** or **Traceback**  
-A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
-* **Multithreading**  
-The ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system. This approach differs from multiprocessing, as with multithreading the processes and threads share the resources of a single or multiple cores.
 * **Multi-Inheritance**  
 A feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class.
 * **Diamond Problem**  
-An ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. If there is a method in A that B and C have overridden, and D does not override it, then which version of the method does D inherit: that of B, or that of C?  It only occurs when multi-inheritance is allowed.  Python mitigates this problem with an order of inheritance determined by the C3 linearization algorithm.
+An ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. If there is a method in A that B and C have overridden, and D does not override it, then which version of the method does D inherit: that of B, or that of C?  It only occurs when multi-inheritance is allowed.  Python mitigates this problem with an order of inheritance determined by the C3 linearization algorithm.  
+* **Polymorphism**  
+In English, polymorphism is the condition of occurring in several different forms.  
+In computer science, polymorphism is the provision of a single interface to entities of different types.  It comes in several flavors:  
+  - *ad hoc polymorphism*:
+  function overloading
+  - *parametric polymorphism*:
+  generic programming
+  - *subtyping*:
+  when a name denotes instances of many different classes related by some common superclass
+* **Protocol**  
+A common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).   
 * **Aliasing**  
 A situation in which a data location in memory can be accessed through different symbolic names in the program. Thus, modifying the data through one name implicitly modifies the values associated with all aliased names.
 * **Syntactic Sugar**  
@@ -35,17 +40,12 @@ In computer programming, the scope of a name binding is the part of a computer p
     * can be determined at compile time
 * **Race Condition**  
 The behavior of an electronic, software or other system where the output is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when events do not happen in the order the programmer intended. The term originates with the idea of two signals racing each other to influence the output first.
-* **Polymorphism**  
-In English, polymorphism is the condition of occurring in several different forms.  
-In computer science, polymorphism is the provision of a single interface to entities of different types.  It comes in several flavors:  
-  - *ad hoc polymorphism*:
-  function overloading
-  - *parametric polymorphism*:
-  generic programming
-  - *subtyping*:
-  when a name denotes instances of many different classes related by some common superclass
-* **Protocol**  
-A common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).
+* **Call Stack**  
+A stack data structure that stores information about the active subroutines of a computer program.  A call stack is composed of *stack frames* (also called activation records or activation frames).
+* **Stack Trace** or **Traceback**  
+A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
+* **Multithreading**  
+The ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system. This approach differs from multiprocessing, as with multithreading the processes and threads share the resources of a single or multiple cores.
   
 //under construction  
 *  **Decorators**
