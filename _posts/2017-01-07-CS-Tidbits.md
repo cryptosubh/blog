@@ -45,7 +45,7 @@ In computer science, polymorphism is the provision of a single interface to enti
   - *subtyping*:
   when a name denotes instances of many different classes related by some common superclass
   
-//under construction
+//under construction  
 *  **Decorators**
 Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses. 
 *  **Annotations**  
