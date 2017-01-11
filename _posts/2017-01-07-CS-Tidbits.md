@@ -52,11 +52,9 @@ A **character** is a minimal unit of text that has semantic value.
 A **character set** is a collection of characters that might be used by multiple languages.  
 Example: The Latin character set is used by English and most European languages, though the Greek character set is used only by the Greek language.  
 
-A **coded character set** is a character set in which each character corresponds to a unique number.  
-**Encoding**   
-process of translating a string of characters into its raw bytes form  
-**Decoding**  
-process or translating a raw string of bytes into its character string form  
+A **coded character set** is a character set in which each character corresponds to a unique number.  Examples: ASCII, Latin-1, Unicode
+**Encoding** is the process of translating a string of characters into its raw bytes form.  
+**Decoding** is the process or translating a raw string of bytes into its character string form.  
 A **code point** of a coded character set is any legal value in the character set.  
 A **code unit** is a bit sequence used to encode each character of a repertoire within a given encoding form.  
   
