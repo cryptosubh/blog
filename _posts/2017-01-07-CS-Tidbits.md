@@ -46,8 +46,12 @@ A stack data structure that stores information about the active subroutines of a
 A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
 * **Multithreading**  
 The ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system. This approach differs from multiprocessing, as with multithreading the processes and threads share the resources of a single or multiple cores.  
-*  **Decorators**
-Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses. 
+*  **Decorators**  
+Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses.  
+* **Hashable**  
+An object is hashable if it has a hash value which never changes during its lifetime (it needs a __hash__() method), and can be compared to other objects (it needs an __eq__() method). Hashable objects which compare equal must have the same hash value. Hashability makes an object usable as a dictionary key and a set member, because these data structures use the hash value internally. All of Python’s immutable built-in objects are hashable, while no mutable containers (such as lists or dictionaries) are. Objects which are instances of user-defined classes are hashable by default; they all compare unequal (except with themselves), and their hash value is derived from their id().  
+
+
 
 //under construction  
 A **character** is a minimal unit of text that has semantic value.  
