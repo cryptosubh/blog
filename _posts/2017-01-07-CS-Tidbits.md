@@ -46,6 +46,8 @@ A stack data structure that stores information about the active subroutines of a
 A report of the active stack frames at a certain point in time during the execution of a program - i.e., a snapshot of the call stack 
 * **Multithreading**  
 The ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system. This approach differs from multiprocessing, as with multithreading the processes and threads share the resources of a single or multiple cores.  
+*  **Decorators**
+Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses. 
 
 //under construction  
 A **character** is a minimal unit of text that has semantic value.  
@@ -59,8 +61,6 @@ A **code point** of a coded character set is any legal value in the character se
 A **code unit** is a bit sequence used to encode each character of a repertoire within a given encoding form.  
   
 
-*  **Decorators**
-Function decorators are wrappers to existing functions.  They dynamically alter the functionality of a function, method or class without having to directly use subclasses. 
 *  **Annotations**  
 like decorators for java programs!
 preceded by the at sign (@) - @ = AT, as in annotation type
