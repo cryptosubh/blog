@@ -19,6 +19,6 @@ For n = 2, we'd expect around 20% of the m data points to lie in X\*.  This is e
 
 For n = 3, the space is sparser: only around 4% (i.e., 0.2^2) of the data will lie in X\*.  That's usually fine as long as m is sufficiently large.
 
-The curse of dimensionality comes from the fact that the sequence of numbers {.2^n} converges to 0 - and does so quickly. For more than four dimensions, we simply need too much data for the nearest neighbor method to be feasible.  
+The curse of dimensionality comes from the fact that the sequence of numbers {.2^n} converges to 0 - and does so quickly. For more than four dimensions, we usually need too much data for the nearest neighbor method to be feasible.  
 
 Let's close with an interesting thought experiment that illuminates the curse of dimensionality: consider an n-dimensional hypercube with an inscribed n-dimensional hypersphere.  In two dimensions, we can see that the circle takes up most of the area inside of the square. In three dimensions, the sphere takes up most of the volume inside of the cube.  But as dimension increases towards infinity, the ratio of the volume of the n-sphere to the n-cube goes to zero!  So most points in an n-cube are just very far apart - and are even far from the center.
