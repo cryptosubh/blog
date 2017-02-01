@@ -23,4 +23,4 @@ This system is unfortunate for two reasons.  The first is that statistics is inc
 
 Luckily, this system is starting to change. Books by Nasim Taleb and Nate Silver have revealed the importance of a prob/stat education and the dangers of a statistically illiterate society.  Top schools in NYC like Hunter are introducing prob/stat concepts in middle school and revisiting them during every year of high school - and I believe other schools will eventually follow their lead.  
 
-One of the great things about tutoring is that I have a second chance at subjects I never quite mastered the first time around.  Some of the statistics I'm learning makes it into this blog.  My brain is quite cluttered with useless geometry theorems, constructions, and proofs.  
+One of the great things about tutoring is that I have a second chance at subjects I never quite mastered the first time around.  Some of the statistics I'm learning makes it into this blog.  And my brain is currently quite cluttered with useless geometry theorems, constructions, and proofs.  
