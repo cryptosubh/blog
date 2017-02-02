@@ -8,8 +8,7 @@ permalink: /archive/
 [CS Tidbits](https://rachel1792.github.io/CS-Tidbits/)
 
 
-## Probability & Statistical Theory
-[Conditioning on a Collider](https://rachel1792.github.io/Conditioning-on-a-Collider/)  
+## Probability & Statistical Theory 
 [Correlation vs Independence](https://rachel1792.github.io/Correlation-vs-Independence/)  
 [Regression to the Mean](https://rachel1792.github.io/Guess-My-Weight/)  
 [The Curse of Dimensionality](https://rachel1792.github.io/Curse-of-Dimensionality/)  
