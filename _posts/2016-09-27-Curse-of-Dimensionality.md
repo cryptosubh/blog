@@ -13,9 +13,11 @@ There's a parallel situation in statistics: sometimes methods that are powerful 
 
 Consider the following set-up. We are given a data set of m observations (x, y), where each x has n coordinates, each y has one coordinate, and m > n.  For simplicity's sake, suppose each coordinate of x is between 0 and 1, so each x lies in the n-dimensional hypercube of side length one. 
 
-For a given n-dim x\* that lies in our hypercube, we wish to obtain a prediction for the corresponding y\*.  We do so by taking all the x's in our data set such that each coordinate value of x is within 0.1 of the corresponding coordinate value of x\*.  Call this set X\*.  Note that X\* has a volume of at most (.2^n). The idea is that average y value for all x's in X\* is probably a reasonable estimate for y\*.  This is called a nearest neighboor method. 
+For a given n-dim x\* that lies in our hypercube, we wish to obtain a prediction for the corresponding y\*.  We do so by taking all the x's in our data set such that each coordinate value of x is within 0.1 of the corresponding coordinate value of x\*.  Call this set X\*. The idea is that average y value for all x's in X\* is probably a reasonable estimate for y\*.  This is called a nearest neighboor method. 
 
-For n = 2, we'd expect around 20% of the m data points to lie in X\*.  This is enough data to make a good approximation for y\*.  
+Note that the convex hull of X\* has a volume of at most (.2^n).
+
+So for n = 2, we'd expect around 20% (or less!) of the m data points to lie in X\*.  This is enough data to make a good approximation for y\*.  
 
 For n = 3, the space is sparser: only around 4% (i.e., 0.2^2) of the data will lie in X\*.  That's usually fine as long as m is sufficiently large.
 
