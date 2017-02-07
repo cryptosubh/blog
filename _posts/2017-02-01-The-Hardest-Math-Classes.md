@@ -3,7 +3,7 @@ layout: post
 title: What are the Hardest Math Classes? 
 ---
 
-Before you click the "READ MORE" link below, take a guess which math class(es) I am most often requested to tutor. No peeking!  
+Before you keep reading below, take a guess which math class(es) I am most often requested to tutor. No peeking!  
 
 Answer: geometry for high schoolers, probability & statistics for college students and young adults.  
 
