@@ -10,8 +10,10 @@ I graduated from Princeton in 2013 with a B.A. in Mathematics.  I started this b
 Anyone familiar with college-level statistics and object-oriented programming.  
 
 ### Other Interests
-
 musical theater, yoga, bridge, the New York Times crossword puzzle, watching football & basketball
+
+### Great Thinkers I Admire
+Stephen Sondheim, Nate Silver, Nassim Taleb, Jonathan Haidt, Megan McArdle 
 
 ### Contact 
 
