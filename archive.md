@@ -9,6 +9,7 @@ permalink: /archive/
 
 
 ## Probability & Statistical Theory 
+[Conditioning on a Collider](https://rachel1792.github.io/Conditioning-on-a-Collider/)
 [Correlation vs Independence](https://rachel1792.github.io/Correlation-vs-Independence/)  
 [Regression to the Mean](https://rachel1792.github.io/Guess-My-Weight/)  
 [The Curse of Dimensionality](https://rachel1792.github.io/Curse-of-Dimensionality/)  
@@ -17,6 +18,7 @@ permalink: /archive/
 [Simpson's Paradox](https://rachel1792.github.io/Simpsons-Paradox/)  
 
 ## Data & Applied Statistics
+[Social Science's Null Hypothesis Problem](https://rachel1792.github.io/The-Null-Hypothesis-Problem/) 
 
 ## Education
 [The Hardest Math Classes](https://rachel1792.github.io/The-Hardest-Math-Classes/)  
