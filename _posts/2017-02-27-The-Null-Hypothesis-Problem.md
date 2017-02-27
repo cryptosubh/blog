@@ -9,9 +9,9 @@ A common algorithm taught in Statistics 101 is how to demonstrate a statisticall
 
 A lot of my students are understandably confused by this step.  If we are trying to show an association, why do we start out by assuming the opposite? 
 
-It's because there are so many spurious correlations in this world, that if you want people to believe the correlation you found is legitimate, the burden of proof is on you. The idea is to show that a world in which the correlation appeared by chance is so improbable that there must be some legitimate assocation between the two variables: a proof by contradiction, if you will.  The algorithm makes a convincing argument because it gives the other side a fighting chance, and lets it collapse under the weight of its own contradictions.
+It's because there are so many spurious correlations in this world, that if you want people to believe the correlation you found is legitimate, the burden of proof is on you. The idea is to show that a world in which the correlation appeared by chance is so improbable that there must be a genuine assocation between the two variables: a proof by contradiction, if you will.  The algorithm makes a convincing argument because it gives the other side a fighting chance, and lets it collapse under the weight of its own contradictions.
 
-And the same holds true on a more meta-level.  If you fervently believe hypothesis X to be true, and you end up showing hypothesis X is true, then with all due respect I'm not all that impressed. I'm much more interested in the cases when the evidence doesn't corroborate your deeply-held beliefs.  I challenge my readers to think of two hypotheses that they would love be prove true but for which the evidence is inconclusive at best.  I'll go first. 
+And the same holds true on a more meta-level.  If you fervently believe hypothesis X to be true, and you end up showing hypothesis X is true, then with all due respect I'm not all that impressed. I'm much more interested in the cases when the evidence doesn't corroborate your deeply-held beliefs.  I challenge you to think of two hypotheses that you would love prove true but for which the evidence is inconclusive at best.  I'll go first. 
 
 Here are two hypotheses which I find personally unpleasant but statistically compelling:  
 1. The gender disparity in many fields will probably never disappear.  
