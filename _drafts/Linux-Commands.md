@@ -45,9 +45,11 @@ title: Linux Commands
 
 #### Chapter 7: Seeing the World as the Shell Sees It
 * echo
+
 #### Chapter 8: Advanced Keyboard Tricks
 * clear
 * history
+
 #### Chapter 9: Permissions
 * id
 * chmod
@@ -57,6 +59,7 @@ title: Linux Commands
 * chown
 * chgrp
 * passwd
+
 #### Chapter 10: Processes
 * ps
 * top
@@ -66,6 +69,7 @@ title: Linux Commands
 * kill
 * killall
 * shutdown
+
 #### Chapter 11: The Environment
 * printenv
 * set
