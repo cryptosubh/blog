@@ -63,9 +63,9 @@ Special files where programs such as *ls* send their results and receive their a
 ####Chapter 7: Seeing the World as the Shell Sees It
 * **expansion**  
 s
-  * **pathname expansion**  
-  * **arithmetic expansion**  
-  * **brace expansion**
-  * **parameter expansion**  
+  * *pathname expansion*  
+  * *arithmetic expansion*  
+  * *brace expansion*
+  * *parameter expansion*  
 * **word splitting**
 * **quoting**
