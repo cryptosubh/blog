@@ -33,7 +33,7 @@ A class of programs that allow for easy viewing of long text documents in a page
 * **Linux Filesystem Heirarchy Standard**  
 Defines the directory structure and directory contents in Unix-like operating systems
 * **symbolic link** or **soft link** or **symlink**  
-the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
+The nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
 
 ####Chapter 4: Manipulating Files & Directories
 * **wildcard**  
