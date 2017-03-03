@@ -3,7 +3,7 @@ layout: post
 title: Linux Commands
 ---
 
-Normally I write notes like these out longhand, but since I'll only ever be typing commands, it seemed like a reasonable (and quicker) idea to type them out instead.  
+Normally I write notes like these out longhand, but since I'll only ever be typing commands, it seemed like a defensible (and quicker) choice to type them out instead.  
 
 ### Part I: Learning the Shell
 
