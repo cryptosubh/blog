@@ -4,7 +4,7 @@ title: Linux Vocab
 ---
 Languages may come and go, but theory is forever.  Most of the definitions are copied from "The Linux Command Line" by William E. Shotts Jr.
 
-####Chapter 1: What is the Shell?  
+###Chapter 1: What is the Shell?  
 * **shell**  
 A 
 * **bash**  
