@@ -2,7 +2,7 @@
 layout: post
 title: Linux Vocab
 ---
-Most of the definitions are gleaned from *The Linux Command Line* by William E. Shotts Jr.
+Most of the definitions come from *The Linux Command Line* by William E. Shotts Jr.
 
 ####Chapter 1: What is the Shell?  
 * **shell**  
