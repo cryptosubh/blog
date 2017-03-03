@@ -59,3 +59,13 @@ Mini shell scripts incorporated into the environment
 * **standard output, input and error**  
 Special files where programs such as *ls* send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
 * **file descriptor**  
+
+####Chapter 7: Seeing the World as the Shell Sees It
+* **expansion**  
+s
+  * **pathname expansion**  
+  * **arithmetic expansion**  
+  * **brace expansion**
+  * **parameter expansion**  
+* **word splitting**
+* **quoting**
