@@ -90,3 +90,12 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 ### Part III: Common Tasks & Essential Tools
 #### Chapter 14: Package Management
 
+#### Chapter 15: Storage Media
+#### Chapter 16: Networking
+#### Chapter 17: Searching for Files
+#### Chapter 18: Archiving & Backup
+#### Chapter 19: Regular Expressions
+#### Chapter 20: Text Processing
+#### Chapter 21: Formatting Output
+#### Chapter 22: Printing
+#### Chapter 23: Compiling Programs
