@@ -2,16 +2,28 @@
 layout: post
 title: Linux Vocab
 ---
-Most of the definitions are copied from "The Linux Command Line" by William E. Shotts Jr.
+Most of the definitions are gleaned from *The Linux Command Line* by William E. Shotts Jr.
 
 ####Chapter 1: What is the Shell?  
 * **shell**  
-A 
+A program that takes keyboard commands and passes them to the operating system to carry out.  Almost all Linux distributions supply a shell program from the GNU Project called **bash**.
 * **bash**  
-An 
+Stands for "Bourne Again Shell".  An enhanced replacement for sh, the original Unix shell program written by Steve Bourne.
 * **terminal emulator**  
-An 
+Gives you access to interact with the shell.  Examples: konsole, gnome-terminal
+* **superuser**  
+An
 
+
+####Chapter 2: Navigation  
+* **heirarchical directory structure**  
+A program that takes keyboard commands and passes them to the operating system to carry out.  Almost all Linux distributions supply a shell program from the GNU Project called **bash**.
+* **root directory**  
+Stands for "Bourne Again Shell".  An enhanced replacement for sh, the original Unix shell program written by Steve Bourne.
+* **terminal emulator**  
+Gives you access to interact with the shell.  Examples: konsole, gnome-terminal
+* **superuser**  
+An
 
 * **Polymorphism**  
 In English, polymorphism is the condition of occurring in several different forms.  
