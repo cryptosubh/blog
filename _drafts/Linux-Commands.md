@@ -6,10 +6,10 @@ title: Linux Commands
 * date
 * cal
 * df
-* free
+* free  
 ***
 * pwd
-* cd
+* cd  
 ***
 * ls
 * file
