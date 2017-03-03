@@ -81,3 +81,5 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * set
 * export
 * nano
+
+#### Chapter 12: A Gentle Introduction to vi
