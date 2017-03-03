@@ -41,6 +41,21 @@ A symbol that can stand for one or more characters
 * **globbing**  
 The process of expanding a non-specific file name containing a wildcard character into a set of specific file names that exist in storage on a computer, server, or network
 * **hard link**  
-the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
+A directory entry that associates a name with a file on a file system. Cannot reference a directory, only a file.
 * **inode**  
-the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
+A data structure in a Unix-style file system which describes a filesystem object such as a file or a directory. Each inode stores the attributes and disk block location(s) of the object's data. Filesystem object attributes may include metadata (times of last change, access, modification), as well as owner and permission data.  Everything except its name and its actual data!
+
+
+####Chapter 5: Working with Commands
+* **alias**  
+A command we can define ourself, built from other commands
+* **shell builtins**  
+A command built into the shell itself
+* **shell functions**  
+Mini shell scripts incorporated into the environment
+* **environment**  
+
+####Chapter 6: Redirection
+* **standard output, input and error**  
+Special files where programs such as *ls* send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
+* **file descriptor**  
