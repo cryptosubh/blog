@@ -12,7 +12,7 @@ Stands for "Bourne Again Shell".  An enhanced replacement for sh, the original U
 * **terminal emulator**  
 Gives you access to interact with the shell.  Examples: konsole, gnome-terminal
 * **superuser**  
-An
+A special user account used for system administration.  On Unix-like systems, for example, the user with a user identifier (UID) of zero is the superuser.   Root is the conventional name of the user who has all rights or permissions (to all files and programs) in all modes.
 
 
 ####Chapter 2: Navigation  
