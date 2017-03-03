@@ -8,4 +8,6 @@ title: Linux Commands
 * df
 * free
 
-*
+* pwd
+* cd
+* ls
