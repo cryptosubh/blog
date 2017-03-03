@@ -7,8 +7,10 @@ title: Linux Commands
 * cal
 * df
 * free
+---
 * pwd
 * cd
+---
 * ls
 * file
 * less
