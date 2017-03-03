@@ -7,20 +7,24 @@ title: Linux Commands
 * date
 * cal
 * df
-* free  
+* free
+
 #### Chapter 2: Navigation
 * pwd
 * cd  
+
 #### Chapter 3: Exploring the System
 * ls
 * file
 * less
+
 #### Chapter 4: Manipulating Files & Directories
 * cp
 * mv
 * mkdir
 * rm
 * ln
+
 #### Chapter 5: Working with Commands
 * type
 * which 
@@ -28,6 +32,7 @@ title: Linux Commands
 * info
 * whatis
 * alias
+
 #### Chapter 6: Redirection
 * cat
 * sort 
@@ -37,6 +42,7 @@ title: Linux Commands
 * head
 * tail
 * tee
+
 #### Chapter 7: Seeing the World as the Shell Sees It
 * echo
 #### Chapter 8: Advanced Keyboard Tricks
