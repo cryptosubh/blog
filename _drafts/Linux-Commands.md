@@ -74,6 +74,8 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * killall
 * shutdown
 
+### Part II: Configuration & The Environment
+
 #### Chapter 11: The Environment
 * printenv
 * set
