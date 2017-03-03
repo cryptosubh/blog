@@ -40,7 +40,7 @@ the nickname for any file that contains a reference to another file or directory
 A symbol that can stand for one or more characters
 * **globbing**  
 The process of expanding a non-specific file name containing a wildcard character into a set of specific file names that exist in storage on a computer, server, or network
-* **hard link** 
+* **hard link**  
 the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
-* **inode** 
+* **inode**  
 the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
