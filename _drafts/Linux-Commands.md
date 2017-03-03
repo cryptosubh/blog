@@ -83,3 +83,10 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * nano
 
 #### Chapter 12: A Gentle Introduction to vi
+
+
+#### Chapter 13: Customizing the Prompt
+
+### Part III: Common Tasks & Essential Tools
+#### Chapter 14: Package Management
+
