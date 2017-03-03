@@ -19,10 +19,28 @@ A special user account used for system administration.  On Unix-like systems, fo
 * **heirarchical directory structure**  
 Linux organizes its files in a tree-like pattern of directories (ie, folders) which may contain files and other directories
 * **root directory**  
-Stands for "Bourne Again Shell".  An enhanced replacement for sh, the original Unix shell program written by Steve Bourne.
+The first directory in the file system
 * **pathname**  
-In :  
+The route we take along the branches of the tree to get to the directory we want  
   - *absolute pathname*:
-  function overloading
+  begin with the root, represented by a leading slash /
   - *relative pathname*:
-  generic programming
+  begin with the working directory, represented by ./ or just implied!
+  
+####Chapter 3: Exploring the System
+* **pagers**  
+A class of programs that allow for easy viewing of long text documents in a page-by-page manner. Example: *less*
+* **Linux Filesystem Heirarchy Standard**  
+Defines the directory structure and directory contents in Unix-like operating systems
+* **symbolic link** or **soft link** or **symlink**  
+the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
+
+####Chapter 4: Manipulating Files & Directories
+* **wildcard**  
+A symbol that can stand for one or more characters
+* **globbing**  
+The process of expanding a non-specific file name containing a wildcard character into a set of specific file names that exist in storage on a computer, server, or network
+* **hard link** 
+the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
+* **inode** 
+the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
