@@ -82,5 +82,6 @@ Process by which the shell removes extra white space - treats all spaces, tabs, 
 * **quoting**  
 Mechanism for the shell to selectively suppress unwanted expansions
   * *double quotes*  
+  all speical characters used by the shell lose their special meaning with the exception of $, \, and \`
   word-splitting; pathname, tilde & brace expansion are suppressed
   parameter, arithmetic, and command substitution are still carried out
