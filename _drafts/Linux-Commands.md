@@ -8,10 +8,10 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 ### Part I: Learning the Shell
 
 #### Chapter 1: What is the Shell?
-* date
-* cal
-* df
-* free
+* *date*
+* *cal*
+* *df*
+* *free*
 
 #### Chapter 2: Navigation
 * pwd
