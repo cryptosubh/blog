@@ -65,22 +65,22 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * **passwd** change a user's password
 
 #### Chapter 10: Processes
-* ps
-* top
-* jobs
-* bg
-* fg
-* kill
-* killall
-* shutdown
+* **ps** report a snapshot of current processes
+* **top** display tasks
+* **jobs** list active jobs
+* **bg** place a job in the background
+* **fg** place a job in the foreground
+* **kill** send a signal to a process
+* **killall** kill processes by name
+* **shutdown** shut down or reboot the system
 
 ### Part II: Configuration & The Environment
 
 #### Chapter 11: The Environment
-* printenv
-* set
-* export
-* nano
+* **printenv** print all or part of the environment
+* **set** set shell options
+* **export** export environment to subsequently executed programs
+* **nano**
 
 #### Chapter 12: A Gentle Introduction to vi
 
