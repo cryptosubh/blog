@@ -58,6 +58,10 @@ Mini shell scripts incorporated into the environment
 ####Chapter 6: Redirection
 * **standard output, input and error**  
 Special files where programs such as *ls* send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
+* **pipeline** 
+Using the pipe operator |, the standard output of one command can be piped into the standard input of another
+* **filter** 
+A command that takes input, changes it, and then ouputs it. Example: sort.  Often get chained into a pipeline.
 * **file descriptor**  
 
 ####Chapter 7: Seeing the World as the Shell Sees It
