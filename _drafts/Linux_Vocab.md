@@ -102,4 +102,4 @@ Buffer which stores copied text
 * **file type**  
 A regular file (-), a directory (d), a symbolic link (l), a character special file (c), or a block special file (b)
 * **file mode**  
-Represents the read, write & execute permissions for the file's owner, file's group owner, and everybody else.
+Represents the read, write & execute permissions for the file's owner, file's group owner, and everybody else.  Most commonly used are 7 (rwx), 6 (rw-), 5 (r-x), 4 (r--), and 0 (---).
