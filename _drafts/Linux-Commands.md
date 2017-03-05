@@ -17,7 +17,7 @@ view free memory
 #### Chapter 2: Navigation
 * **pwd**  
 print working directory
-* **cd ** 
+* **cd** 
 
 #### Chapter 3: Exploring the System
 * ls
