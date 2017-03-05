@@ -69,10 +69,16 @@ A command that takes input, changes it, and then ouputs it. Example: sort.  Ofte
 Process by which the shell converts an expression into something else before commands are issued
   * *pathname expansion* 
   * *tilde expansion*  
-  when a tilde character ~ is used at the beginning of a word, it expands into the name of the home directory of the named user (or the home directory of the current user if no user is named)
+  when a tilde character ~ is used at the beginning of a word, it expands into the name of the home directory of the named user (or the home directory of the current user if no user is named).
   * *arithmetic expansion*  
   perform arithmetic by expansion using the following form: $((expression)). only supports integers.
   * *brace expansion*
   * *parameter expansion*  
+  substitute the value of a variable for the variable's name.  syntax: $VARIABLE.  
 * **word splitting**
-* **quoting**
+Process by which the shell removes extra white space - treats all spaces, tabs, and newlines as the same *delimiter*
+* **quoting**  
+Mechanism for the shell to selectively suppress unwanted expansions
+  * *double quotes*
+  word-splitting; pathname, tilde & brace expansion are suppressed
+  parameter, arithmetic, and command substitution are still carried out
