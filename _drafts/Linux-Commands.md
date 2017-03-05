@@ -56,7 +56,7 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 
 #### Chapter 9: Permissions
 * **id** display user identity
-* **chmod** change a files' mode
+* **chmod** change a files' mode (permissions)
 * **umask** set the default file permissions
 * **su** run a shell as another user
 * **sudo** execute a command as another user
