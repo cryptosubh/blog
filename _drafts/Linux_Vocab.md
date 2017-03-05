@@ -66,9 +66,12 @@ A command that takes input, changes it, and then ouputs it. Example: sort.  Ofte
 
 ####Chapter 7: Seeing the World as the Shell Sees It
 * **expansion**  
-s
-  * *pathname expansion*  
+Process by which the shell converts an expression into something else before commands are issued
+  * *pathname expansion* 
+  * *tilde expansion*  
+  when a tilde character ~ is used at the beginning of a word, it expands into the name of the home directory of the named user (or the home directory of the current user if no user is named)
   * *arithmetic expansion*  
+  perform arithmetic by expansion using the following form: $((expression)). only supports integers.
   * *brace expansion*
   * *parameter expansion*  
 * **word splitting**
