@@ -77,8 +77,8 @@ Process by which the shell converts an expression into something else before com
   substitute the value of a variable for the variable's name.  syntax: $VARIABLE.  
   * *command substitution*  
   allows us to use the output of a command as an expansion
-* **word splitting**
-Process by which the shell removes extra white space - treats all spaces, tabs, and newlines as the same *delimiter*
+* **word splitting**  
+Process by which the shell removes extra white space - treats all spaces, tabs, and newlines as the same delimiter
 * **quoting**  
 Mechanism for the shell to selectively suppress unwanted expansions
   * *double quotes*  
