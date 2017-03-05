@@ -97,3 +97,9 @@ Cutting and pasting
 Buffer which stores copied text
 * **meta-key**  
 * **history expansion**
+
+####Chapter 9: Permissions
+* **file type**  
+A regular file (-), a directory (d), a symbolic link (l), a character special file (c), or a block special file (b)
+* **file mode**  
+Represents the read, write & execute permissions for the file's owner, file's group owner, and everybody else.
