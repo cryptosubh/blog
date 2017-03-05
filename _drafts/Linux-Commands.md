@@ -10,7 +10,8 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 #### Chapter 1: What is the Shell?
 * **date**
 * **cal**
-* **df**
+* **df**  
+disk filesystem summary
 * **free**  
 view free memory
 
@@ -20,24 +21,28 @@ print working directory
 * **cd** 
 
 #### Chapter 3: Exploring the System
-* ls
-* file
-* less
+* **ls**  
+list directory contents
+* **file**  
+determine file type
+* **less**  
+view file contents
 
 #### Chapter 4: Manipulating Files & Directories
-* cp
-* mv
-* mkdir
-* rm
-* ln
+* **cp**
+* **mv**
+* **mkdir**
+* **rm**
+* **ln**  
+create hard and symbolic links
 
 #### Chapter 5: Working with Commands
-* type
-* which 
-* man
-* info
-* whatis
-* alias
+* **type**
+* **which**
+* **man**
+* **info**
+* **whatis**
+* **alias**
 
 #### Chapter 6: Redirection
 * cat
