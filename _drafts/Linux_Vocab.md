@@ -87,3 +87,11 @@ Mechanism for the shell to selectively suppress unwanted expansions
     - parameter, arithmetic, and command substitution are still carried out
   * *single quotes*  
     - suppress all expansions
+
+####Chapter 8: Advanced Keyboard Tricks
+* **Readline**  
+Library 
+* **killing and yanking**  
+Cutting and pasting
+* **kill-ring**  
+Buffer which stores copied text
