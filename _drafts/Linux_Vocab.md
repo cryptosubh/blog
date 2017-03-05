@@ -90,8 +90,10 @@ Mechanism for the shell to selectively suppress unwanted expansions
 
 ####Chapter 8: Advanced Keyboard Tricks
 * **Readline**  
-Library 
+Library for command-line editing routines
 * **killing and yanking**  
 Cutting and pasting
 * **kill-ring**  
 Buffer which stores copied text
+* **meta-key**  
+* **history expansion**
