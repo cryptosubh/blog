@@ -31,8 +31,7 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 
 #### Chapter 5: Working with Commands
 * **type** indicate how a command is interpreted - builtin, alias, or saved executable
-* **which**  
-display the location of an executable program.  doesn't work on builtins or aliases.
+* **which** display the location of an executable program.  doesn't work on builtins or aliases.
 * **man** display a command's manual page
 * **info** display a command's info netry
 * **whatis** display a very brief description of a command
@@ -41,29 +40,29 @@ display the location of an executable program.  doesn't work on builtins or alia
 #### Chapter 6: Redirection
 * **cat** read one or more files, concatenate them, and copy them to standard output
 * **sort** sort lines of text
-* **uniq** report or omit repreated lines
+* **uniq** report or omit repreated lines. takes a sorted list of data as input - often used in conjunction with *sort*
 * **wc** print newline, word, and byte counts for each file
 * **grep** print lines matching a pattern
 * **head** output the first part of a file
 * **tail** output the last part of a file
-* **tee** read from standard input and write to standard output and files
+* **tee** read from standard input and write to *both* standard output and files
 
 #### Chapter 7: Seeing the World as the Shell Sees It
-* echo
+* **echo** display a line of text
 
 #### Chapter 8: Advanced Keyboard Tricks
-* clear
-* history
+* **clear** clear the screen
+* **history** display the contents of the history list
 
 #### Chapter 9: Permissions
-* id
-* chmod
-* umask
-* su
-* sudo
-* chown
-* chgrp
-* passwd
+* **id** display user identity
+* **chmod** change a files' mode
+* **umask** set the default file permissions
+* **su** run a shell as another user
+* **sudo** execute a command as another user
+* **chown** change a file's owner
+* **chgrp** change a file's group ownership
+* **passwd** change a user's password
 
 #### Chapter 10: Processes
 * ps
