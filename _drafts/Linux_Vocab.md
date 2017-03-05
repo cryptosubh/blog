@@ -86,4 +86,4 @@ Mechanism for the shell to selectively suppress unwanted expansions
     - word-splitting; pathname, tilde & brace expansion are suppressed  
     - parameter, arithmetic, and command substitution are still carried out
   * *single quotes*  
-  suppress all expansions
+    - suppress all expansions
