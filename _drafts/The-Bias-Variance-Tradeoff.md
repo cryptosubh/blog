@@ -7,7 +7,8 @@ The bias-variance tradeoff, like the curse of dimensionality, summarizes one of 
 
 You are probably familiar with various measures to assess the prediction accuracy of a particular model, such as R-squared or the residual sum of squares (RSS). 
 
-Another measure that statisticians care about is the mean squared error (MSE), or the average squared residual, which is just the RSS divided by the sample size.  It turns out that the MSE can be decomposed into three components:  
+Another measure that statisticians care about is the mean squared error (MSE), or the average squared residual, which is just the RSS divided by the sample size.  It turns out that the MSE can be decomposed into three components:
 - irreducible error
 - variance
-- squared bias
+- squared bias  
+The irreducible error is not being modeled and not of interest to us.  
