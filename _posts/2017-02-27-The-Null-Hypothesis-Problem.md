@@ -15,6 +15,6 @@ And the same holds true on a more meta-level.  If you fervently believe hypothes
 
 Here are two hypotheses which I find personally unpleasant but statistically compelling:  
 1. **The gender disparity in many fields will probably never disappear.**  
-I would love to have more female peers in math, but most of the evidence suggests that the gender disparity in STEM is largely due to genetic factors.  
+I would love to have more female peers in math, but the evidence suggests that the gender disparity in STEM is largely due to genetic factors.  
 2. **School choice might not produce significantly better outcomes for students.  More generally, increasing the quality of our educational system might not be a cure for all of our society's ills.**  
 In theory I favor free market solutions to economic issues, but the evidence supporting charter schools and other school choice systems is currently pretty thin.  I think this is part of a larger issue that there isn't a ton of evidence supporting the popular belief that increasing the quality of our schools leads to markedly better outcomes for students (and there's even less evidence that pouring more money into the school system increases the quality of the education it provides).  I'm passionate about learning and teaching, so accepting the limits of education is a tough pill for me to swallow. 
