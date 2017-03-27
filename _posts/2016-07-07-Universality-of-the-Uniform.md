@@ -3,7 +3,7 @@ layout: post
 title: Universality of the Uniform
 ---
 
-Given a continuous random variable X and its cumulative distribution function cdf(), then Y = cdf(X) is a uniform random variable on the interval [0,1].
+For any continuous random variable X, if we apply the cumulative distribution function (cdf) of X to X itself we obtain a uniform random variable on the interval [0,1].
 
 Wikipedia calls this the Probability Integral Transform, and as a mathematical statement I dont' find it particularly illuminating. But after reading an example I was more excited:
 
