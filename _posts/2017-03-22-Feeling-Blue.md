@@ -9,6 +9,6 @@ What exactly is meant by 'unbiased'?  The bias of an estimator is the difference
 
 So which unbiased estimator is the best? The one which varies the least from zero on any given sample is the best - that is, the estimator with the lowest mean squared error.
 
-The Gauss-Markov Theorem states that under certain conditions, the ordinary least squares estimate is BLUE.  If *heteroscedasticity* or *auto-correlation* are present, then OLS is still unbiased but it is no longer best - that distinction belongs to a variation on OLS called *generalized least squares* . 
+The **Gauss-Markov Theorem** states that under certain conditions, the ordinary least squares estimate is BLUE.  If *heteroscedasticity* or *auto-correlation* are present, then OLS is still unbiased but it is no longer best - that distinction belongs to a variation on OLS called *generalized least squares* . 
 
-The text that inspired this post is an 80-page paper called *Understanding Regression Assumptions* by William D. Berry.  If you care about understanding every single detail of regressions, I can't recommend it strongly enough.  He uses a lot of equations, but also somehow explains everything in an extremely intuitive manner. I learned something new on almost every page.    
+The text that inspired this post is an 80-page paper called *Understanding Regression Assumptions* by William D. Berry.  I can't recommend it strongly enough, especially if you care about understanding every single detail of regressions.  He uses a lot of equations, but also somehow explains everything in an extremely intuitive manner. I learned something new on almost every page.    
