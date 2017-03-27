@@ -23,6 +23,6 @@ So the mess in your head may contribute to the mess on the page, but the mess on
 
 I am not a particularly tidy person in my personal life.  I leave dishes in the sink and throw my clothes on the floor.  My handwriting is legible but not uniform or beautiful.  I have no talent for sketching or painting.  
 
-Mathematical tidiness is different from personal tidiness.  Mathematical tidiness is attention to detail and respect for logic and order.  Mathematical tidiness is trusting that the organization of mathematical structures will reveal the correct answer to the problem.  
+Mathematical tidiness is different from personal tidiness.  Mathematical tidiness is attention to detail and respect for logic and order.  Mathematical tidiness is trusting that the proper organization of the relevant mathematical structures will reveal the correct answer to the problem.  
 
 I therefore have a zero tolerance policy towards mathematical messiness.  My students don't have to do their homework or pay attention in class.  But while we sit together they must be hypervigilant about the tidiness of their written work.  If this isn't possible, I think it's because their problems are in organization and effort, not in the mathematics, and I am probably not the right tutor for the job.
