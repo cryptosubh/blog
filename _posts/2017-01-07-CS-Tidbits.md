@@ -2,7 +2,7 @@
 layout: post
 title: CS Tidbits I've Been Picking Up
 ---
-Languages may come and go, but theory is forever.  Most of the definitions are copied from Wikipedia.
+Languages may come and go, but theory is forever.  Most of the definitions are copied from Wikipedia.  My favorite new concept is syntactic sugar.
 
 
 * **Multi-Inheritance**  
