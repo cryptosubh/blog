@@ -5,9 +5,9 @@ title: Feeling Blue
 
 In statistics, the acronym BLUE stands for Best Linear Unbiased Estimator.  For a while I didn't know this and wondered why the stats paper I was reading kept using capitalized colors to describe a regression.  
 
-What exactly is meant by 'unbiased'?  The bias of an estimator is the difference between the estimator's expected value and the true value of the parameter being estimated.  An estimator with zero bias is called unbiased.  An unbiased estimator may wildly overshoot or undershoot on any particular sample, but over many samples, large positive errors will cancel out with large negative errors and the average error will tend towards zero.
+What exactly is meant by 'unbiased'?  The bias of an estimator is the difference between the estimator's expected value and the true value of the parameter.  An estimator with zero bias is called unbiased.  An unbiased estimator may wildly overshoot or undershoot on any particular sample, but over many samples large positive errors will cancel out large negative errors and the average error will tend towards zero.
 
-So which unbiased estimator is the best? The one which varies the least from zero on any given sample is the best - that is, the one with the lowest MSE is best.
+So which unbiased estimator is the best? The one which varies the least from zero on any given sample is the best - that is, the estimator with the lowest mean squared error.
 
 The Gauss-Markov Theorem states that under certain conditions, the ordinary least squares regression is BLUE.  If *heteroscedasticity* or *auto-correlation* are present, then OLS is still unbiased but it is no longer best - that distinction belongs to a variation on OLS called *generalized least squares* . 
 
