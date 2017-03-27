@@ -21,6 +21,6 @@ It's probably true that students struggle more with geometry and statistics beca
 
 This system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to a much broader range of fields than calculus does.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  So it's particularly illogical to reserve statistics for the least mathematically-inclined students.
 
-Luckily, this system is starting to change. Books by Nasim Taleb and Nate Silver have revealed the importance of a prob/stat education and the dangers of a statistically illiterate society.  Top schools in NYC like Hunter are introducing prob/stat concepts in middle school and revisiting them during every year of high school - and I believe other schools will eventually follow their lead.  
+Luckily, this system is starting to change. Books by Nassim Taleb and Nate Silver have revealed the importance of a prob/stat education and the dangers of a statistically illiterate society.  Top schools in NYC like Hunter are introducing prob/stat concepts in middle school and revisiting them during every year of high school - and I believe other schools will eventually follow their lead.  
 
 One of the great things about tutoring is that I have a second chance at subjects I never quite mastered the first time around.  Some of the statistics I'm learning makes it into this blog.  And my brain is currently quite cluttered with useless geometry theorems, constructions, and proofs.  
