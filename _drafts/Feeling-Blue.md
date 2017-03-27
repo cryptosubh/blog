@@ -7,7 +7,7 @@ In statistics, the acronym BLUE stands for Best Linear Unbiased Estimator.  For 
 
 What exactly is meant by 'unbiased'?  The bias (or bias function) of an estimator is the difference between this estimator's expected value and the true value of the parameter being estimated.  An estimator or decision rule with zero bias is called unbiased.  An unbiased estimator may wildly overshoot or undershoot on any particular sample, but over many samples, large positive errors will cancel out with large negative errors and the average error will tend towards zero.
 
-So which unbiased estimator is the best? The one which varies the least from zero is the best -- that is, the one with the lowest MSE is best.
+So which unbiased estimator is the best? The one which varies the least from zero on any given sample is the best -- that is, the one with the lowest MSE is best.
 
 The **Gauss-Markov Theorem** states that under certain conditions, the ordinary least squares regression is BLUE. 
 
