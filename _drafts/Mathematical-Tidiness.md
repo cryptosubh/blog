@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathematical Tidiness
+title: On Mathematical Tidiness
 ---
 
 Hopefully, you have had the experience of tackling an unfamiliar math problem where you didn't know the solution or even the general approach ahead of time. (If not, then the system has failed you.  Everyone should work on challenging math problems!) 
