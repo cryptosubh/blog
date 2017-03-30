@@ -14,7 +14,7 @@ When we model a relationship between two variables, there are infinitely many po
 
 
 
-The irreducible error comes from noise that we are not modelling and is not of interest to us.  
+The irreducible error comes from noise or from variables that we are not modelling and is not of interest to us.  
 
 It's easy to reduce either bias or variance separately by choosing a particular predictor function.  If I choose a prediction function that passes through all the points in the data set, then I've created an estimator with a low but not zero bias (some bias is introduced depending upon how I connect up the data points).  So we see that reducing either variance or bias separately is trivial; the art lies in minimizing the sum.  
 
