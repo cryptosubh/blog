@@ -1,5 +1,5 @@
 ---
 layout: post
-title: The Conditioning on a Collider: How to Arb the System
+title: The Conditioning on a Collider: Life Hacks
 ---
 
