@@ -11,7 +11,7 @@ Runner-ups: Trigonometry, discrete/finite math.  Requests from distressed high s
 
 Notice what doesn't doesn't crack the top 5: Calculus. Pre-calculus. Algebra.  
 
-Hopefully, upon reflection, my readers can relate.  I certainly can.  Geometry was definitely my weakest math area in high school.  Whenever I took a math competition, I'd auto-skip the harder geometry questions: I knew 30-60-90 triangles and parallel line theorems, but after that I was pretty much out of tricks.  Whenever I had to visualize higher dimensions for a math class, I'd run my hands over my textbook, my eraser, and any other accessible, prism-y object, trying in vain to develop intuition for 3D geometry. 
+Hopefully, upon reflection, my readers can relate.  I certainly can.  Geometry was definitely my weakest math area in high school.  Whenever I took a math competition, I'd auto-skip the harder geometry questions: I knew 30-60-90 triangles and parallel line theorems, but after that I was pretty much out of tricks.  If I needed to visualize higher dimensions for a math class, I'd run my hands over my textbook, my eraser, and any other accessible, prism-y object, trying in vain to develop intuition for 3D geometry. 
 
 At most high schools, calculus is considered the crowning acheivement of your mathematical career, a course only to be attempted after the redundant algII/precalc sequence.  (The redundancy of algebra II followed by pre-calculus is a topic for another post.)
 
@@ -21,6 +21,6 @@ It's probably true that students struggle more with geometry and statistics beca
 
 This system is unfortunate for two reasons.  The first is that statistics is incredibly important, and applies to a much broader range of fields than calculus does.  And the second is that statistics is actually incredibly nuanced, the details and assumptions so subtle but crucial.  So it's particularly illogical to reserve statistics for the least mathematically-inclined students.
 
-Luckily, this system is starting to change. Books by Nassim Taleb and Nate Silver have revealed the importance of a prob/stat education and the dangers of a statistically illiterate society.  Top schools in NYC like Hunter are introducing prob/stat concepts in middle school and revisiting them during every year of high school - and I believe other schools will eventually follow their lead.  
+Luckily, this system is starting to change. Books by Nassim Taleb and Nate Silver have revealed the importance of a prob/stat education and the dangers of a statistically illiterate society.  Top schools in NYC like Hunter are introducing probabilistic methods in middle school and revisiting them during every year of high school - and I believe other schools will eventually follow their lead.  
 
 One of the great things about tutoring is that I have a second chance at subjects I never quite mastered the first time around.  Some of the statistics I'm learning makes it into this blog.  And my brain is currently quite cluttered with useless geometry theorems, constructions, and proofs.  
