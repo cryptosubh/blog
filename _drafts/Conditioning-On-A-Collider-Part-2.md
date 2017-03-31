@@ -1,5 +1,5 @@
 ---
 layout: post
-title: The Conditioning on a Collider Arbitrage
+title: The Conditioning on a Collider: How to Arb the System
 ---
 
