@@ -4,4 +4,6 @@ title: So Hot Right Now
 ---
 ...  
 
-<img src="https://raw.githubusercontent.com/rachel1792/jekyll-now/master/images/crossword.PNG" width="400">
+<img src="https://raw.githubusercontent.com/rachel1792/jekyll-now/master/images/crossword.PNG" width="400">  
+
+The only Friday puzzle I've solved without cheating.
