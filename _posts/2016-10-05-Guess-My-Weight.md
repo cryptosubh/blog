@@ -3,7 +3,7 @@ layout: post
 title: Guess My Weight
 ---
 
-My height is in the fifth percentile for women my age.  Which percentile do you think I'm in for weight?  
+My height is in the 5th percentile for women my age.  Which percentile do you think I'm in for weight?  
  a. 5th percentile  
  b. 10th percentile, so I should lose 5 pounds to get down to the 5th  
  c. 10th percentile, which is probably close to average for my height  
@@ -18,7 +18,7 @@ So we see that the correct answer is C.  Being in a higher percentile for weight
 Additional discussion questions:
 
 * If my sister scored in the 92nd percentile for Biological Science, and 96th percentile for Physical Science, and the 99th percentiles for both Verbal and Social Science, then in what percentile was her overall MCAT score? (Answer: Very very high 99th.)
-* If my mom is the 15th percentile for height and my dad is in the 5th, then where was regression to the mean when I ended up in the fifth?
-* If my husband and I are both in the fifth percentile for height, how much growth hormone will our children need?
+* If my mom is the 15th percentile for height and my dad is in the 5th, then where was regression to the mean when I ended up in the 5th?
+* If my husband and I are both in the 5th percentile for height, how much growth hormone will our children need?
 * Do SAT scores obey regression to the mean when they are retaken? (Answer: yes.)
 * During the first half of Alex Rodriguez's baseball career he was (arguably) the best home run hitter in baseball and became the youngest player ever to hit 300, 400, and 500 career home runs.  In order to break the career home run record, A-rod needed to place in the top 10 for most home runs during the second half of a baseball career.  Was he ever likely to make it?  (Answer: No.  Even conditional on having the most home runs during the first half of his career, he was never favored to be in the top 10 home run hitters during the second half of his career because of regression to the mean.)
