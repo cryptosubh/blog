@@ -7,7 +7,7 @@ title: Stats I'm Picking Up
 The deviation of the observed value from the (unobservable) *true* value of a quantity of interest 
 * **Residual**  
 The deviation of the observed value from the *estimated* value of a quantity of interest 
-* **Studentized Residual** 
+* **Studentized Residual**  
 The quotient resulting from the division of a residual by an estimate of its standard deviation
 * **Likelihood Ratio Test**  
 A statistical test used for comparing the goodness of fit of two models, one of which (the null model) is a special case of the other (the alternative model). The test is based on the likelihood ratio, which expresses how many times more likely the data are under one model than the other. 
