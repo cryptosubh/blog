@@ -8,4 +8,4 @@ title: So Hot Right Now
 
 The only Friday puzzle I've ever solved without cheating.
 
-Check out the [full story](https://blog.nycdatascience.com/student-works/web-scraping/nyt-crossword-puzzle-approximately-cool-oed/)
+Check out the [full story here](https://blog.nycdatascience.com/student-works/web-scraping/nyt-crossword-puzzle-approximately-cool-oed/).
