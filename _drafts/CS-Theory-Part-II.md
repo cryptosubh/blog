@@ -10,7 +10,8 @@ A type of resource leak that occurs when a computer program incorrectly manages 
 A reference that does not protect the referenced object from collection by a garbage collector
 * **Latency**  
 The amount of time a message takes to traverse a system.  In a computer network, it is an expression of how much time it takes for a packet of data to get from one designated point to another.  A low latency indicates a high network efficiency.
-* **Central Processing Unit (CPU)**   
+
+* **Central Processing Unit (CPU)**     
 A single CPU can have multiple cores, which allows for task concurrency.
 * **Threading**  
 Threads run in same memory space
