@@ -4,8 +4,8 @@ title: CS Theory Part II
 ---
 
 
-* **Memory Leak** . 
+* **Memory Leak**  
 A type of resource leak that occurs when a computer program incorrectly manages memory allocations in such a way that memory which is no longer needed is not released
-* **Weak Reference** . 
+* **Weak Reference**  
 A reference that does not protect the referenced object from collection by a garbage collector
 * 
