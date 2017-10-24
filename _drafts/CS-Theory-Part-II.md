@@ -16,6 +16,8 @@ A single CPU can have multiple cores, which allows for task concurrency.
 Threads run in same memory space
 * **Processes**  
 Processes run in different memory spaces
+* **Thread safe**  
+Implementation is guaranteed to be free of race conditions when accessed by multiple threads simultaneously.
 * **Concurrency**  
 The number of pre-fork worker processes
 * **Fork**  
