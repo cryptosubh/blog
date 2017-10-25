@@ -23,3 +23,5 @@ Implementation is guaranteed to be free of race conditions when accessed by mult
 The number of pre-fork worker processes
 * **Fork**  
 An operation whereby a process creates a copy of itself. When a process calls fork, it is deemed the parent process and the newly created process is its child. After the fork, both processes not only run the same program, but they resume execution as though both had called the system call.
+* **Payload**  
+The part of transmitted data that is the actual intended message. The payload excludes any headers or metadata sent solely to facilitate payload delivery.
