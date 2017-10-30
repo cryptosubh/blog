@@ -8,11 +8,6 @@ title: CS Theory Part II
 A type of resource leak that occurs when a computer program incorrectly manages memory allocations in such a way that memory which is no longer needed is not released
 * **Weak Reference**  
 A reference that does not protect the referenced object from collection by a garbage collector
-* **Hard Disk/Hard Drive**  
-A spindle of magnetic disks that stores files you download, install or save.  Disk drive space on a typical computer is 2TB.  
-* **Random Access Memory (RAM)**  
-Consists of small chips known as memory modules.  Can be accessed 100s of times faster than a hard drive, which is why active programs such as the operating system are loaded into RAM.  RAM on a typical computer is 16GB.
-
 
 * **Latency**  
 The amount of time a message takes to traverse a system.  In a computer network, it is an expression of how much time it takes for a packet of data to get from one designated point to another.  A low latency indicates a high network efficiency.
@@ -33,6 +28,10 @@ An operation whereby a process creates a copy of itself. When a process calls fo
 The part of transmitted data that is the actual intended message. The payload excludes any headers or metadata sent solely to facilitate payload delivery.
 
 
+* **Hard Disk/Hard Drive**  
+A spindle of magnetic disks that stores files you download, install or save.  Disk drive space on a typical computer is 2TB.  
+* **Random Access Memory (RAM)**  
+Consists of small chips known as memory modules.  Can be accessed 100s of times faster than a hard drive, which is why active programs such as the operating system are loaded into RAM.  RAM on a typical computer is 16GB.
 **Rabbit**
 * **Queue Index**   
 Maintains knowledge about where a given message is in a queue, including whether it has been delivered and acknowledged
