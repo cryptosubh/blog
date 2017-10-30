@@ -31,7 +31,8 @@ The part of transmitted data that is the actual intended message. The payload ex
 * **Hard Disk/Hard Drive**  
 A spindle of magnetic disks that stores files you download, install or save.  Disk drive space on a typical computer is 2TB.  
 * **Random Access Memory (RAM)**  
-Consists of small chips known as memory modules.  Can be accessed 100s of times faster than a hard drive, which is why active programs such as the operating system are loaded into RAM.  RAM on a typical computer is 16GB.
+Consists of small chips known as memory modules.  Can be accessed 100s of times faster than a hard drive, which is why active programs such as the operating system are loaded into RAM.  RAM on a typical computer is 16GB.  
+
 **Rabbit**
 * **Queue Index**   
 Maintains knowledge about where a given message is in a queue, including whether it has been delivered and acknowledged
