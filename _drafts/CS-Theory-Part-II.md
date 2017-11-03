@@ -35,6 +35,8 @@ Consists of small chips known as memory modules.  Can be accessed 100s of times 
 
 **Rabbit**
 * **Queue Index**   
-Maintains knowledge about where a given message is in a queue, including whether it has been delivered and acknowledged
+Maintains knowledge about where a given message is in a queue, including whether it has been delivered and acknowledged.  There is one queue index per queue.  
 * **Message Store**  
 A key-value store for messages, shared among all queues in the server.  
+
+Messages can be stored directly to queue index, or written to the message store.  Persistent messages will be written to disk as soon as they reach the queue, while transient messages will be written to disk only so that they can be evicted from memory while under memory pressure.  Persistent messages are also kept in memory when possible and only evicted from memory under memory pressure. The "persistence layer" refers to the mechanism used to store messages of both types to disk.  
