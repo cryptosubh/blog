@@ -9,10 +9,12 @@ Online Transactional Processing
   - data is normalized to save storage space
   - joins and queries are slow
   - optimized for write operations
+  - updated frequently
 * **OLAP Database**  
 Online Analytical Processing   
   - usually called a 'data warehouse'
   - data is de-normalized
   - joins and queries are fast
   - optimized for read operations
+  - not updated frequently; instead, data is appended in large batches
 * 
