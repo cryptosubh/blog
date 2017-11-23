@@ -15,7 +15,7 @@ Gives you access to interact with the shell.  Examples: konsole, gnome-terminal
 A special user account used for system administration.  On Unix-like systems, for example, the user with a user identifier (UID) of zero is the superuser.   Root is the conventional name of the user who has all rights or permissions (to all files and programs) in all modes.
 
 
-####Chapter 2: Navigation  
+#### Chapter 2: Navigation  
 * **heirarchical directory structure**  
 Linux organizes its files in a tree-like pattern of directories (ie, folders) which may contain files and other directories
 * **root directory**  
@@ -27,7 +27,7 @@ The route we take along the branches of the tree to get to the directory we want
   - *relative pathname*:
   begin with the working directory, represented by ./ or just implied!
   
-####Chapter 3: Exploring the System
+#### Chapter 3: Exploring the System
 * **pagers**  
 A class of programs that allow for easy viewing of long text documents in a page-by-page manner. Example: *less*
 * **Linux Filesystem Heirarchy Standard**  
@@ -35,7 +35,7 @@ Defines the directory structure and directory contents in Unix-like operating sy
 * **symbolic link** or **soft link** or **symlink**  
 The nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution
 
-####Chapter 4: Manipulating Files & Directories
+#### Chapter 4: Manipulating Files & Directories
 * **wildcard**  
 A symbol that can stand for one or more characters
 * **globbing**  
@@ -46,7 +46,7 @@ A directory entry that associates a name with a file on a file system. Cannot re
 A data structure in a Unix-style file system which describes a filesystem object such as a file or a directory. Each inode stores the attributes and disk block location(s) of the object's data. Filesystem object attributes may include metadata (times of last change, access, modification), as well as owner and permission data.  Everything except its name and its actual data!
 
 
-####Chapter 5: Working with Commands
+#### Chapter 5: Working with Commands
 * **alias**  
 A command we can define ourself, built from other commands
 * **shell builtins**  
@@ -55,7 +55,7 @@ A command built into the shell itself
 Mini shell scripts incorporated into the environment
 * **environment**  
 
-####Chapter 6: Redirection
+#### Chapter 6: Redirection
 * **standard output, input and error**  
 Special files where programs such as *ls* send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
 * **pipeline**  
@@ -64,7 +64,7 @@ Using the pipe operator |, the standard output of one command can be piped into 
 A command that takes input, changes it, and then ouputs it. Example: sort.  Often get chained into a pipeline.
 * **file descriptor**  
 
-####Chapter 7: Seeing the World as the Shell Sees It
+#### Chapter 7: Seeing the World as the Shell Sees It
 * **expansion**  
 Process by which the shell converts an expression into something else before commands are issued
   * *pathname expansion* 
@@ -88,7 +88,7 @@ Mechanism for the shell to selectively suppress unwanted expansions
   * *single quotes*  
     - suppress all expansions
 
-####Chapter 8: Advanced Keyboard Tricks
+#### Chapter 8: Advanced Keyboard Tricks
 * **Readline**  
 Library for command-line editing routines
 * **killing and yanking**  
@@ -98,7 +98,7 @@ Buffer which stores copied text
 * **meta-key**  
 * **history expansion**
 
-####Chapter 9: Permissions
+#### Chapter 9: Permissions
 * **file type**  
 A regular file (-), a directory (d), a symbolic link (l), a character special file (c), or a block special file (b)
 * **file mode**  
