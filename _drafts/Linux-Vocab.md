@@ -102,7 +102,12 @@ Cutting and pasting
 * **kill-ring**  
 Buffer which stores copied text
 * **meta-key**  
-* **history expansion**
+* **completion**  
+When you press the tab key once whilst typing a command that is already uniquely determined
+* **programmable completion**  
+Allows you or your distribution provider to add additional completion rules
+* **history expansion**  
+Your bash history is saved in `.bash_history`.  You can also view it with the command **history**.  
 
 #### Chapter 9: Permissions
 * **file type**  
