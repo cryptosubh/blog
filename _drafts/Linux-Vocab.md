@@ -76,9 +76,9 @@ Process by which the shell converts an expression into something else before com
   perform arithmetic by expansion using the following form: $((expression)). only supports integers.
   * *brace expansion*
   * *parameter expansion*  
-  substitute the value of a variable for the variable's name.  syntax: $VARIABLE.  
+  substitute the value of a variable for the variable's name.  Example: $VARIABLE.  
   * *command substitution*  
-  allows us to use the output of a command as an expansion
+  substitute the output of a command as an expansion. Example: $(which cp). Older syntax: `which cp`
 * **word splitting**  
 Process by which the shell removes extra white space - treats all spaces, tabs, and newlines as the same delimiter
 * **quoting**  
