@@ -30,6 +30,8 @@ The route we take along the branches of the tree to get to the directory we want
 #### Chapter 3: Exploring the System
 * **pagers**  
 A class of programs that allow for easy viewing of long text documents in a page-by-page manner. Example: *less*
+* **Configuration Files**  
+Contain system settings  
 * **Linux Filesystem Heirarchy Standard**  
 Defines the directory structure and directory contents in Unix-like operating systems
 * **symbolic link** or **soft link** or **symlink**  
@@ -50,14 +52,14 @@ A data structure in a Unix-style file system which describes a filesystem object
 * **alias**  
 A command we can define ourself, built from other commands
 * **shell builtins**  
-A command built into the shell itself
+A command built into the shell itself.  Example: cd
 * **shell functions**  
 Mini shell scripts incorporated into the environment
 * **environment**  
 
 #### Chapter 6: Redirection
 * **standard output, input and error**  
-Special files where programs such as *ls* send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
+Special files where programs such as ls send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
 * **pipeline**  
 Using the pipe operator |, the standard output of one command can be piped into the standard input of another
 * **filter**  
