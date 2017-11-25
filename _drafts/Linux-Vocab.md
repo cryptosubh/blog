@@ -107,7 +107,7 @@ When you press the tab key once whilst typing a command that is already uniquely
 * **programmable completion**  
 Allows you or your distribution provider to add additional completion rules
 * **history expansion**  
-Bash history is saved in `.bash_history`.  Can also view it with the command **history**.  **History** expansion expands !88 into the 88th line in the history list.
+Bash history is saved in `.bash_history`. **History expansion** expands !88 into the 88th line in the history list.
 
 #### Chapter 9: Permissions
 * **file type**  
