@@ -15,7 +15,7 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 
 #### Chapter 2: Navigation
 * **pwd** print working directory
-* **cd** 
+* **cd** change directory
 
 #### Chapter 3: Exploring the System
 * **ls** list directory contents
@@ -23,17 +23,17 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * **less** view file contents
 
 #### Chapter 4: Manipulating Files & Directories
-* **cp**
-* **mv**
-* **mkdir**
-* **rm**
+* **cp** copy
+* **mv** move
+* **mkdir** make directory
+* **rm** remove
 * **ln** create hard and symbolic links
 
 #### Chapter 5: Working with Commands
 * **type** indicate how a command is interpreted - builtin, alias, or saved executable
 * **which** display the location of an executable program.  doesn't work on builtins or aliases.
 * **man** display a command's manual page
-* **info** display a command's info netry
+* **info** display a command's info entry
 * **whatis** display a very brief description of a command
 * **alias** create an alias for a command
 
