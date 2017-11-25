@@ -29,7 +29,7 @@ The route we take along the branches of the tree to get to the directory we want
   
 #### Chapter 3: Exploring the System
 * **pagers**  
-A class of programs that allow for easy viewing of long text documents in a page-by-page manner. Example: *less*
+A class of programs that allow for easy viewing of long text documents in a page-by-page manner. Example: `less`
 * **Configuration Files**  
 Contain system settings  
 * **Linux Filesystem Heirarchy Standard**  
@@ -52,14 +52,14 @@ A data structure in a Unix-style file system which describes a filesystem object
 * **alias**  
 A command we can define ourself, built from other commands
 * **shell builtins**  
-A command built into the shell itself.  Example: cd
+A command built into the shell itself.  Example: `cd`
 * **shell functions**  
 Mini shell scripts incorporated into the environment
 * **environment**  
 
 #### Chapter 6: Redirection
 * **standard output, input and error**  
-Special files where programs such as ls send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
+Special files where programs such as `ls` send their results and receive their arguments.  By default, standard output & error are linked to the screen and not saved in a file, and standard input is attached to the keeyboard.
 * **pipeline**  
 Using the pipe operator |, the standard output of one command can be piped into the standard input of another
 * **filter**  
@@ -74,13 +74,13 @@ Process by which the shell converts an expression into something else before com
   * *tilde expansion*  
   when a tilde character ~ is used at the beginning of a word, it expands into the name of the home directory of the named user (or the home directory of the current user if no user is named).
   * *arithmetic expansion*  
-  perform arithmetic by expansion using the following form: $((expression)). only supports integers.
+  perform arithmetic by expansion using the following form: `$((expression))`. only supports integers.
   * *brace expansion*  
-  Create multiple text strings from a from a pattern or set contained in braces.  The brace expression may contain a comma-separated list of strings or a range of integers or single characters. Example 1: echo {Z..A}.  Example 2: echo a{A{1,2}, B{3,4}}b will print aA1b aA2b aB3b aB4b
+  Create multiple text strings from a from a pattern or set contained in braces.  The brace expression may contain a comma-separated list of strings or a range of integers or single characters. Example 1: `echo {Z..A}`.  Example 2: `echo a{A{1,2}, B{3,4}}b` will print `aA1b aA2b aB3b aB4b`
   * *parameter expansion*  
-  substitute the value of a variable for the variable's name.  Example: $VARIABLE.  
+  substitute the value of a variable for the variable's name.  Example: `$VARIABLE`.  
   * *command substitution*  
-  substitute the output of a command as an expansion. Example: $(which cp). Older syntax: \`which cp\`
+  substitute the output of a command as an expansion. Example: `$(which cp)`. Older syntax: `\`which cp\``
 * **word splitting**  
 Process by which the shell removes extra white space - treats all spaces, tabs, and newlines as the same delimiter
 * **quoting**  
@@ -107,7 +107,7 @@ When you press the tab key once whilst typing a command that is already uniquely
 * **programmable completion**  
 Allows you or your distribution provider to add additional completion rules
 * **history expansion**  
-Bash history is saved in `.bash_history`. **History expansion** expands !88 into the 88th line in the history list.
+Bash history is saved in `.bash_history`. **History expansion** expands `!88` into the 88th line in the history list.
 
 #### Chapter 9: Permissions
 * **file type**  
