@@ -70,11 +70,13 @@ A command that takes input, changes it, and then ouputs it. Example: sort.  Ofte
 * **expansion**  
 Process by which the shell converts an expression into something else before commands are issued
   * *pathname expansion* 
+  the mechanism by which wildcards match files
   * *tilde expansion*  
   when a tilde character ~ is used at the beginning of a word, it expands into the name of the home directory of the named user (or the home directory of the current user if no user is named).
   * *arithmetic expansion*  
   perform arithmetic by expansion using the following form: $((expression)). only supports integers.
-  * *brace expansion*
+  * *brace expansion*  
+  Create multiple text strings from a from a pattern or set contained in braces.  The brace expression may contain a comma-separated list of strings or a range of integers or single characters. Example 1: echo {Z..A}.  Example 2: echo a{A{1,2}, B{3,4}}b will print aA1b aA2b aB3b aB4b
   * *parameter expansion*  
   substitute the value of a variable for the variable's name.  Example: $VARIABLE.  
   * *command substitution*  
@@ -86,9 +88,11 @@ Mechanism for the shell to selectively suppress unwanted expansions
   * *double quotes*  
     - all special characters used by the shell lose their special meaning with the exception of $, \, and \`  
     - word-splitting; pathname, tilde & brace expansion are suppressed  
-    - parameter, arithmetic, and command substitution are still carried out
+    - parameter, arithmetic, and command substitution are still carried out. escape characters are still escaped!
   * *single quotes*  
     - suppress all expansions
+* **escape character**  
+backslash \
 
 #### Chapter 8: Advanced Keyboard Tricks
 * **Readline**  
