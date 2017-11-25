@@ -78,7 +78,7 @@ Process by which the shell converts an expression into something else before com
   * *parameter expansion*  
   substitute the value of a variable for the variable's name.  Example: $VARIABLE.  
   * *command substitution*  
-  substitute the output of a command as an expansion. Example: $(which cp). Older syntax: `which cp`
+  substitute the output of a command as an expansion. Example: $(which cp). Older syntax: \`which cp\`
 * **word splitting**  
 Process by which the shell removes extra white space - treats all spaces, tabs, and newlines as the same delimiter
 * **quoting**  
