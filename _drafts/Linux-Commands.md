@@ -53,6 +53,7 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 #### Chapter 8: Advanced Keyboard Tricks
 * **clear** clear the screen
 * **history** display the contents of the history list
+* **script**  
 
 #### Chapter 9: Permissions
 * **id** display user identity
