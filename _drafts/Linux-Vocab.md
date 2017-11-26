@@ -147,5 +147,5 @@ The number assigned to a background job - not to be confused with PID!  Allows y
 Body of information maintained by the shell during a session
 * **shell variables**  
 Data stored by bash
-* **environment variables** 
+* **environment variables**  
 Any variable that isn't a shell variable
