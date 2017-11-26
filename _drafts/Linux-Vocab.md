@@ -149,3 +149,7 @@ Body of information maintained by the shell during a session
 Data stored by bash
 * **environment variables**  
 Any variable that isn't a shell variable
+* **login shell session**  
+Session in which we are prompted for our username and password.  Reads the startup files located in `/etc/profile` (global configs) and `~/.bash_profile` (user)
+* **non-login shell session**  
+Example: when we launch a session from the GUI.  Reads the startup files `/etc/bash.bashrc` (global configs) and `~/.bashrc` (user)
