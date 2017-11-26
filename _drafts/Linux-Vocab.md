@@ -110,7 +110,12 @@ Allows you or your distribution provider to add additional completion rules
 Bash history is saved in `.bash_history`. **History expansion** expands `!88` into the 88th line in the history list.
 
 #### Chapter 9: Permissions
+* **user ID or uid**  
+Assigned to a user upon creation  
+* **primary group ID or gid**  
 * **file type**  
 A regular file (-), a directory (d), a symbolic link (l), a character special file (c), or a block special file (b)
 * **file mode**  
 Represents the read, write & execute permissions for the file's owner, file's group owner, and everybody else.  Most commonly used are 7 (rwx), 6 (rw-), 5 (r-x), 4 (r--), and 0 (---).
+* **setuid**  
+when applied to an executable file, it sets the effective user ID from that of the real user to that of the porgram's owner -- often, the superuser.
