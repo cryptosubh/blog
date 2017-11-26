@@ -4,6 +4,7 @@ title: Linux Vocab
 ---
 Most of the definitions come from *The Linux Command Line* by William E. Shotts Jr.
 
+### Part I: Learning the Shell
 #### Chapter 1: What is the Shell?  
 * **shell**  
 A program that takes keyboard commands and passes them to the operating system to carry out.  Almost all Linux distributions supply a shell program from the GNU Project called **bash**.
@@ -137,5 +138,7 @@ Assigned to processes in ascending order.  `init` always gets PID 1.
 Time since machine was last booted
 * **load average**  
 The number of processes waiting to run.  In `top`, load average shows three values, one for the last 60 seconds, 5 minutes, and 15 minutes.  
-* **job control** 
+* **jobspec** 
+The number assigned to a background job - not to be confused with PID!  Allows you to move the job easily from foreground to background and back with `%[jobspec]`.
 
+### Part II: Configuration & The Environment
