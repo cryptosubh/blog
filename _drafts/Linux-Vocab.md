@@ -119,3 +119,9 @@ A regular file (-), a directory (d), a symbolic link (l), a character special fi
 Represents the read, write & execute permissions for the file's owner, file's group owner, and everybody else.  Most commonly used are 7 (rwx), 6 (rw-), 5 (r-x), 4 (r--), and 0 (---).
 * **setuid**  
 when applied to an executable file, it sets the effective user ID from that of the real user to that of the porgram's owner -- often, the superuser.
+
+#### Chapter 10: Processes  
+* **processes**  
+How linux organizes different programs waiting for their turn at the CPU
+* **daemon programs**  
+A program that runs as a background process, rather than being under the direct control of an interactive user.  In a Unix environment, the parent process of a daemon is often, but not always, the init process. Traditionally, the process names of a daemon end with the letter d, for clarification that the process is, in fact, a daemon.  For example, syslogd is the daemon that implements the system logging facility, and sshd is a daemon that serves incoming SSH connections.
