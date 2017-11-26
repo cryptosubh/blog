@@ -66,9 +66,11 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * **passwd** change a user's password
 
 #### Chapter 10: Processes
-* **ps** report a snapshot of current processes
-* **top** display tasks
-* **jobs** list active jobs
+* **ps** snapshot of processes associated with the current terminal session
+* **ps x** snapshot of processes regardless of controlling terminal (if any)
+* **ps aux** snapshot of processes regardless of controlling terminal, belonging to any user
+* **top** dynamic view of system processes
+* **jobs** list active jobs launched by current terminal
 * **bg** place a job in the background
 * **fg** place a job in the foreground
 * **kill** send a signal to a process
