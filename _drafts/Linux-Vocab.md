@@ -121,7 +121,18 @@ Represents the read, write & execute permissions for the file's owner, file's gr
 when applied to an executable file, it sets the effective user ID from that of the real user to that of the porgram's owner -- often, the superuser.
 
 #### Chapter 10: Processes  
+* **multitasking**  
+Operating system which creates the illusion of doing more than one thing at once by rapidly switching from one executing program to another
 * **processes**  
 How linux organizes different programs waiting for their turn at the CPU
+* **init scripts**  
+A series of shell scripts, kicked off by `init` at system start-up, which start all system services
 * **daemon programs**  
 A program that runs as a background process, rather than being under the direct control of an interactive user.  In a Unix environment, the parent process of a daemon is often, but not always, the init process. Traditionally, the process names of a daemon end with the letter d, for clarification that the process is, in fact, a daemon.  For example, syslogd is the daemon that implements the system logging facility, and sshd is a daemon that serves incoming SSH connections.
+* **process ID or PID**  
+Assigned to processes in ascending order.  `init` always gets PID 1.  
+* **teletype or TTY**  
+* **controlling terminal**  
+* **uptime** 
+Time since machine was last booted
+* **load average** 
