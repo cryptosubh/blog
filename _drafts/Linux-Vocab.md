@@ -142,3 +142,10 @@ The number of processes waiting to run.  In `top`, load average shows three valu
 The number assigned to a background job - not to be confused with PID!  Allows you to move the job easily from foreground to background and back with `%[jobspec]`.
 
 ### Part II: Configuration & The Environment
+#### Chapter 11: The Environment
+* **environment**  
+Body of information maintained by the shell during a session
+* **shell variables**  
+Data stored by bash
+* **environment variables** 
+Any variable that isn't a shell variable
