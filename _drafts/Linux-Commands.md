@@ -80,8 +80,8 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 ### Part II: Configuration & The Environment
 
 #### Chapter 11: The Environment
-* **printenv** print all or part of the environment
-* **set** set shell options
+* **printenv** print only environment variables
+* **set** print both environment and shell variables
 * **export** export environment to subsequently executed programs
 * **nano**
 
