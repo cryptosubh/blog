@@ -133,6 +133,9 @@ A program that runs as a background process, rather than being under the direct 
 Assigned to processes in ascending order.  `init` always gets PID 1.  
 * **teletype or TTY**  
 * **controlling terminal**  
-* **uptime** 
+* **uptime**  
 Time since machine was last booted
-* **load average** 
+* **load average**  
+The number of processes waiting to run.  In `top`, load average shows three values, one for the last 60 seconds, 5 minutes, and 15 minutes.  
+* **job control** 
+
