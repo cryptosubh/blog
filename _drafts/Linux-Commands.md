@@ -82,17 +82,12 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 #### Chapter 11: The Environment
 * **printenv** print only environment variables
 * **set** print both environment and shell variables
-* **export** export environment to subsequently executed programs
+* **export** export environment to child processes of the shell
 * **nano**
-
-#### Chapter 12: A Gentle Introduction to vi
-
-
-#### Chapter 13: Customizing the Prompt
+* **source**  read and execute commands from a file and return
 
 ### Part III: Common Tasks & Essential Tools
 #### Chapter 14: Package Management
-
 #### Chapter 15: Storage Media
 #### Chapter 16: Networking
 #### Chapter 17: Searching for Files
