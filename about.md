@@ -6,6 +6,8 @@ permalink: /about/
 
 I graduated from Princeton in 2013 with a B.A. in Mathematics.  I started this blog to motivate and document my study of data science, and to gain familiarity with github.
 
+I'm currently a data scientist at a real estate start-up in NYC.  
+
 ### Intended Audience
 Anyone familiar with college-level statistics and object-oriented programming.  
 
