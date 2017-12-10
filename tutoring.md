@@ -5,6 +5,6 @@ permalink: /tutoring/
 ---
 
 
-I tutor Math, CS, Physics, and Econ in Manhattan between the LES and the UES and as far northwest as Hell's Kitchen. My rate is $150/hr through wyzant and $120/hr for private students.  Discounts may be available if you are taking a class that aligns with my interests :). 
+I tutor Math, CS, Physics, and Econ in Manhattan between the LES and the UES and as far northwest as Hell's Kitchen. 
 
 Click here for my [bio & a few student reviews](https://www.wyzant.com/Tutors/rachel1792).
