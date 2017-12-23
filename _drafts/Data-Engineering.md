@@ -5,7 +5,7 @@ title: Data Engineering
 
 Data engineering is like finance in that there is a lot of jargon and you just have to hang out with people who use the language until it all sinks in.  There will probably come a time when words like *throughput* and *atomicity* feel obvious to me, but for now they just feel really unnatural.  I pretty much look up *throughput* every time I read it (or hear it).  
 
-Here's my cheat sheet.  Vocab and definitions come from *Designing Data-Intensive Applications* by Martin Kleppman. 
+Vocab and definitions come from *Designing Data-Intensive Applications* by Martin Kleppman. 
 
 #### Chapter 1: Reliable, Scalable, Maintainable Applications
 * **data-intensive**  
@@ -24,12 +24,12 @@ A system that can anticipate faults and prevent them from causing failutres
 The ability for a system to support growth in data volume, traffic volume and complexity
 * **throughput** 
 The number of records we can process per second, or the total time it takes to run a job on a dataset of a certain size.  Mostly relevant when discussing batch processes.
-* **response time** 
+* **response time**  
 The time between a client sending a request and receiving a response (i.e. service time)
 * **latency**  
 The duration that a request is waiting to be handled (i.e., during which it is latent)
 * **tail latency amplification**  
-If a single user request makes multiple server calls in parallel, it only takes one call to make the entire request slow.
+If a single user request makes multiple server calls in parallel, it only takes one slow call to make the entire request slow.
 * **scaling up** or **vertical scaling**  
 Moving to a more powerful machine
 * **scaling out** or **horizontal scaling** or **shared-nothing architecture**  
