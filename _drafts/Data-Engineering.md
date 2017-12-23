@@ -7,7 +7,7 @@ Data engineering is like finance in that there is a lot of jargon and you just h
 
 Here's my cheat sheet.  Vocab and definitions come from *Designing Data-Intensive Applications* by Martin Kleppman. 
 
-**** Chapter 1: Reliable, Scalable, Maintainable Applications
+#### Chapter 1: Reliable, Scalable, Maintainable Applications
 * **data-intensive**  
 An application where a limiting factor is the amount and complexity of the data it uses.  Compare to **compute-intensive** applications, where the limiting factor is CPU power.
 * **data systems**
