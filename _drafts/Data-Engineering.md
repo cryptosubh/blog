@@ -30,9 +30,9 @@ The time between a client sending a request and receiving a response (i.e. servi
 The duration that a request is waiting to be handled (i.e., during which it is latent)
 * **tail latency amplification**  
 If a single user request makes multiple server calls in parallel, it only takes one call to make the entire request slow.
-* **scaling up** or **vertical scaling** 
+* **scaling up** or **vertical scaling**  
 Moving to a more powerful machine
-* **scaling out** or **horizontal scaling** or **shared-nothing architecture** 
+* **scaling out** or **horizontal scaling** or **shared-nothing architecture**  
 Distributing the load to multiple machines
 * **maintainability**  
-The ability for others to maintain and adapt the system
+The ability for others to keep up and adapt the system
