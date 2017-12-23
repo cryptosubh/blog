@@ -132,4 +132,13 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * **printf**
 * **groff**
 #### Chapter 22: Printing
+* **pr**
+* **lpr**
+* **lp**
+* **a2ps**
+* **lpstat**
+* **lpq**
+* **lprm**
+* **cancel**
 #### Chapter 23: Compiling Programs
+* **make**
