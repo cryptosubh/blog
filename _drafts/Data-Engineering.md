@@ -21,6 +21,18 @@ When the system as a whole stops providing the required service to users
 * **fault-tolerant** or **resilient**  
 A system that can anticipate faults and prevent them from causing failutres
 * **scalability**  
-the ability for a system to support growth in data volume, traffic volume and complexity
+The ability for a system to support growth in data volume, traffic volume and complexity
+* **throughput** 
+The number of records we can process per second, or the total time it takes to run a job on a dataset of a certain size.  Mostly relevant when discussing batch processes.
+* **response time** 
+The time between a client sending a request and receiving a response (i.e. service time)
+* **latency**  
+The duration that a request is waiting to be handled (i.e., during which it is latent)
+* **tail latency amplification**  
+If a single user request makes multiple server calls in parallel, it only takes one call to make the entire request slow.
+* **scaling up** or **vertical scaling** 
+Moving to a more powerful machine
+* **scaling out** or **horizontal scaling** or **shared-nothing architecture** 
+Distributing the load to multiple machines
 * **maintainability**  
-the ability for others to maintain and adapt the system
+The ability for others to maintain and adapt the system
