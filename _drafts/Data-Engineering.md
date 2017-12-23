@@ -19,9 +19,9 @@ When one component of the system deviates from the spec
 * **failure**   
 When the system as a whole stops providing the required service to users
 * **fault-tolerant** or **resilient**  
-A system that can anticipate faults and prevent them from causing failutres
+A system that can anticipate faults and prevent them from causing failures
 * **scalability**  
-The ability for a system to support growth in data volume, traffic volume and complexity
+The ability for a system to support growth in data volume, traffic volume, and complexity
 * **throughput**  
 The number of records we can process per second, or the total time it takes to run a job on a dataset of a certain size.  Mostly relevant when discussing batch processes.
 * **response time**  
