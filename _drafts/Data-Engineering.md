@@ -41,11 +41,22 @@ The ability for others to keep up and adapt the system
 #### Chapter 2: Data Models and Query Languages
 * **NoSQL**  
 Stands for Not Only SQL
+* **polyglot persistence**  
+The idea that different applications have different requirements, so that relational as well as non-relational databases will continue to both be important for the foreseeable future
+* **normalization**  
+Removing duplication for a database to decrease write overhead and reduce the risk of inconsistencies. 
 * **storage locality**  
-* **normalization** 
+The opposite of normalization, when relevant data is split across multiple tables. 
+* **document model** 
+A model with good locality and less normalization.  Examples: JSON, XML.
 * **schema-on-read**  
+Schema is implicit in the data, and is only interpreted once the data is read.  Schema is not defined or enforced by the database.
 * **schema-on-write**  
-* **declarative**   
-* **imperative**  
-
+Schema is explicitly defined and enforced by the database
+* **imperative language**  
+A language in which you specify which operations to perform, and in which order
+* **declarative language**   
+A language in which you specify the pattern of data you want, but not how to procure that data.  Examples: SQL, CSS
+* **Triple-Stores**  
+A model in which all information is stored as (subject, predicate, object)
 
