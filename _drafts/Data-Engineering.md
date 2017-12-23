@@ -47,7 +47,7 @@ The idea that different applications have different requirements, so that relati
 Removing duplication for a database to decrease write overhead and reduce the risk of inconsistencies. 
 * **storage locality**  
 The opposite of normalization, when relevant data is split across multiple tables. 
-* **document model** 
+* **document model**  
 A model with good locality and less normalization.  Examples: JSON, XML.
 * **schema-on-read**  
 Schema is implicit in the data, and is only interpreted once the data is read.  Schema is not defined or enforced by the database.
