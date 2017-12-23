@@ -42,7 +42,7 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * **sort** sort lines of text
 * **uniq** report or omit repreated lines. takes a sorted list of data as input - often used in conjunction with *sort*
 * **wc** print newline, word, and byte counts for each file
-* **grep** print lines matching a pattern
+* **grep** print lines matching a pattern. stands for global regular expression print
 * **head** output the first part of a file
 * **tail** output the last part of a file
 * **tee** read from standard input and write to *both* standard output and files
@@ -87,13 +87,49 @@ Normally I write notes like these out longhand, but since I'll only ever be typi
 * **source**  read and execute commands from a file and return
 
 ### Part III: Common Tasks & Essential Tools
-#### Chapter 14: Package Management
-#### Chapter 15: Storage Media
 #### Chapter 16: Networking
+* **ping** send an ICMP ECHO\_REQUEST to a network host
+* **traceroute** print the route packets trace to a network host
+* **netstat** print network connections, routing tables, interface statistics
+* **ftp** iternet file transfer program
+* **lftp** an improved file transfer program
+* **wget** non-interactive network downloader
+* **ssh** OpenSSH SSH client (remote login program)
+* **scp** secure copy (remote file copy)
+* **sftp** secure file transfer program
 #### Chapter 17: Searching for Files
+* **locate**
+* **find**
+* **xargs**
+* **touch**
+* **stat**
 #### Chapter 18: Archiving & Backup
+* **gzip**
+* **bzip2**
+* **tar**
+* **zip**
+* **rsync** 
 #### Chapter 19: Regular Expressions
+* **grep**
 #### Chapter 20: Text Processing
+* **cat** 
+* **sort**
+* **uniq**
+* **cut**
+* **paste**
+* **join**
+* **comm**
+* **diff**
+* **patch**
+* **tr**
+* **sed**
+* **aspell**
 #### Chapter 21: Formatting Output
+* **nl**
+* **fold**
+* **fmt**
+* **pr**
+* **printf**
+* **groff**
 #### Chapter 22: Printing
 #### Chapter 23: Compiling Programs
