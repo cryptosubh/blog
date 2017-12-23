@@ -60,3 +60,34 @@ A language in which you specify the pattern of data you want, but not how to pro
 * **Triple-Stores**  
 A model in which all information is stored as (subject, predicate, object)
 
+#### Chapter 3: Storage and Retrieval
+* **log**  
+Append-only data file (sequence of records)
+* **log-structured storage engine**  
+* **compaction**  
+The process of throwing away duplicate keys in the log, and only keeping the most recent update for each key in order to conserve disk space
+* **solid state drives** or **SSDs**
+* **Sorted String Table** or **SSTable**  
+* **memtable**  
+* **Log-Structured Merge-Tree** or **LSM-Tree**
+* **Bloom filters**  
+* **write amplification**  
+* **B-Tree**  
+* **blocks** or **pages**  
+* **branching factor**  
+* **write-ahead log** or **WAL** or **redo log**  
+* **latches**  
+* **page-oriented storage engine**  
+* **online transaction processing** or **OLTP**  
+* **online analytical processing** or **OLAP**  
+* **data warehouse** 
+* **Extract-Transform-Load** or **ETL**  
+* **star schema** or **dimensional modeling**
+* **fact table**
+* **dimension tables** 
+* **snowflake schema** 
+* **row-oriented**
+* **column-oriented storage**
+* **bitmap encoding**
+* **materialized view** 
+* **data cube** or **OLAP cube** 
