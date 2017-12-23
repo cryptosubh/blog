@@ -68,6 +68,7 @@ Append-only data file (sequence of records)
 The process of throwing away duplicate keys in the log, and only keeping the most recent update for each key in order to conserve disk space
 * **solid state drives** or **SSDs**
 * **Sorted String Table** or **SSTable**  
+Each log-structured storage segment of key-value pairs is sorted by key
 * **memtable**  
 * **Log-Structured Merge-Tree** or **LSM-Tree**
 * **Bloom filters**  
