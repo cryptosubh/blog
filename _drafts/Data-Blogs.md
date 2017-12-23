@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Good Blogs by Data Scientists
+title: Good Blogs in Data
 ---
 
 * http://www.benstopford.com/
 * https://erikbern.com/
+* https://jeremykun.com/
 * 
