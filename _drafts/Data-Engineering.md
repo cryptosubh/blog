@@ -36,3 +36,16 @@ Moving to a more powerful machine
 Distributing the load to multiple machines
 * **maintainability**  
 The ability for others to keep up and adapt the system
+
+
+#### Chapter 2: Data Models and Query Languages
+* **NoSQL**  
+Stands for Not Only SQL
+* **storage locality**  
+* **normalization** 
+* **schema-on-read**  
+* **schema-on-write**  
+* **declarative**   
+** imperative**  
+
+
