@@ -46,6 +46,6 @@ Stands for Not Only SQL
 * **schema-on-read**  
 * **schema-on-write**  
 * **declarative**   
-** imperative**  
+* ** imperative**  
 
 
