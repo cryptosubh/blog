@@ -22,7 +22,7 @@ When the system as a whole stops providing the required service to users
 A system that can anticipate faults and prevent them from causing failutres
 * **scalability**  
 The ability for a system to support growth in data volume, traffic volume and complexity
-* **throughput** 
+* **throughput**  
 The number of records we can process per second, or the total time it takes to run a job on a dataset of a certain size.  Mostly relevant when discussing batch processes.
 * **response time**  
 The time between a client sending a request and receiving a response (i.e. service time)
