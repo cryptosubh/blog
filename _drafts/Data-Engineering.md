@@ -129,3 +129,5 @@ When HTTP is used as the underlying protocol for talking to the service
 * **remote procedure call (RPC)**
 * **location transparency** 
 * **futures (promises)**
+* **message broker** or **message queue**
+* **asynchronous** 
