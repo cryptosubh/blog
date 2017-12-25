@@ -103,3 +103,29 @@ Storage layout for most OLAP databases.  Potentially faster for queries that onl
 A cache of common queries
 * **data cube** or **OLAP cube** 
 A common special case of a materialized view: a grid of aggregates grouped by different dimensions
+
+#### Chapter 4: Encoding and Evolution
+* **rolling upgrade**
+Deploying a new version a few nodes at a time, gradually working through all the nodes.  Allows new versions to be deployed without service interruptions.  
+* **backward compatibility**
+Newer code can read data that was written by older code.  Usually can be explicitly handled by whoever writes the new code.  
+* **forward compatibility** 
+Older code can read data that was written by newer code.  Usually trickier to handle than backward compatibility, because it requires the older code to ignore additions made by newer versions of the code.
+* **encoding** or **serialization** or **marshalling**  
+Translation from an in-memory data structure (e.g. list, hash table, tree) into a sequence of bytes.  
+* **decoding** or **deserialization** or **unmarshalling** or **parsing**  
+The reverse of encoding.
+* **server**  
+Exposes an API over a network
+* **service**  
+The API exposed by the server
+* **clients**
+In networks, the clients are web browsers
+* **microservice architecture** or **service-oriented architecture**  
+* **web service**  
+When HTTP is used as the underlying protocol for talking to the service
+* **REST**
+* **SOAP**
+* **remote procedure call (RPC)**
+* **location transparency** 
+* **futures (promises)**
