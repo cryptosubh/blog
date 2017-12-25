@@ -70,25 +70,36 @@ The process of throwing away duplicate keys in the log, and only keeping the mos
 * **Sorted String Table** or **SSTable**  
 Each log-structured storage segment of key-value pairs is sorted by key
 * **memtable**  
+An in-memory balanced tree data structure which holds the latest logs
 * **Log-Structured Merge-Tree** or **LSM-Tree**
-* **Bloom filters**  
 * **write amplification**  
+The effect that one write to the database results in multiple disk writes (due to repeated compaction)
 * **B-Tree**  
+A self-balancing tree data structure that keeps data sorted and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree is a generalization of a binary search tree in that a node can have more than two children.
 * **blocks** or **pages**  
+Units which the B-tree breaks the database into - typically about 4KB in size.  Each block or page is written one at a time.
 * **branching factor**  
+The number of references to child pages in one page of the B-tree
+* **leaf page**
+A page containing individual keys and their values
 * **write-ahead log** or **WAL** or **redo log**  
-* **latches**  
+An append-only file to which every B-tree modification must be written before it can be applied to the pages of the tree itself.  Used in the event of a database crash.  
 * **page-oriented storage engine**  
 * **online transaction processing** or **OLTP**  
 * **online analytical processing** or **OLAP**  
 * **data warehouse** 
+A database optimized for analaytics, i.e. OLAP
 * **Extract-Transform-Load** or **ETL**  
-* **star schema** or **dimensional modeling**
-* **fact table**
-* **dimension tables** 
+The process of getting data into a warehouse
+* **star schema** or **dimensional modeling**  
+Data warehouse model with a central **fact table** which foreign keys into many **dimension tables**
 * **snowflake schema** 
-* **row-oriented**
-* **column-oriented storage**
-* **bitmap encoding**
-* **materialized view** 
+A variation on the star schema, where dimension tables are further subdivided into subdimensions
+* **row-oriented**  
+Storage layout of most OLTP databases
+* **column-oriented storage**  
+Storage layout for most OLAP databases.  Potentially faster for queries that only parse a few columns.  Also lends itself well to compression, since values tend to repeat a lot in a given column.
+* **materialized view**  
+A cache of common queries
 * **data cube** or **OLAP cube** 
+A common special case of a materialized view: a grid of aggregates grouped by different dimensions
