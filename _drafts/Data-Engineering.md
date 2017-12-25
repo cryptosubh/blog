@@ -87,13 +87,13 @@ An append-only file to which every B-tree modification must be written before it
 * **page-oriented storage engine**  
 * **online transaction processing** or **OLTP**  
 * **online analytical processing** or **OLAP**  
-* **data warehouse** 
+* **data warehouse**  
 A database optimized for analaytics, i.e. OLAP
 * **Extract-Transform-Load** or **ETL**  
 The process of getting data into a warehouse
 * **star schema** or **dimensional modeling**  
 Data warehouse model with a central **fact table** which foreign keys into many **dimension tables**
-* **snowflake schema** 
+* **snowflake schema**  
 A variation on the star schema, where dimension tables are further subdivided into subdimensions
 * **row-oriented**  
 Storage layout of most OLTP databases
@@ -101,7 +101,7 @@ Storage layout of most OLTP databases
 Storage layout for most OLAP databases.  Potentially faster for queries that only parse a few columns.  Also lends itself well to compression, since values tend to repeat a lot in a given column.
 * **materialized view**  
 A cache of common queries
-* **data cube** or **OLAP cube** 
+* **data cube** or **OLAP cube**  
 A common special case of a materialized view: a grid of aggregates grouped by different dimensions
 
 #### Chapter 4: Encoding and Evolution
