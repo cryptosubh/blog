@@ -105,11 +105,11 @@ A cache of common queries
 A common special case of a materialized view: a grid of aggregates grouped by different dimensions
 
 #### Chapter 4: Encoding and Evolution
-* **rolling upgrade**
+* **rolling upgrade**  
 Deploying a new version a few nodes at a time, gradually working through all the nodes.  Allows new versions to be deployed without service interruptions.  
-* **backward compatibility**
+* **backward compatibility**  
 Newer code can read data that was written by older code.  Usually can be explicitly handled by whoever writes the new code.  
-* **forward compatibility** 
+* **forward compatibility**  
 Older code can read data that was written by newer code.  Usually trickier to handle than backward compatibility, because it requires the older code to ignore additions made by newer versions of the code.
 * **encoding** or **serialization** or **marshalling**  
 Translation from an in-memory data structure (e.g. list, hash table, tree) into a sequence of bytes.  
@@ -119,7 +119,7 @@ The reverse of encoding.
 Exposes an API over a network
 * **service**  
 The API exposed by the server
-* **clients**
+* **clients**  
 In networks, the clients are web browsers
 * **microservice architecture** or **service-oriented architecture**  
 * **web service**  
