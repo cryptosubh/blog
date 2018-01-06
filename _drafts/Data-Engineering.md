@@ -142,10 +142,41 @@ When you execute something synchronously, you wait for it to finish before movin
 
 ### Part II: Distributed Data
 #### Chapter 5: Replication
-* **replica**
+* **replica**  
 Each node that stores a copy of the database
 * **leader-based replication**  
 A replication scheme where one replica is designated as the **leader** and the rest are **followers**.  All write requests must go to the leader; followers are read-only.
-* **replication log** or **change stream** 
+* **replication log** or **change stream**  
+Sequential list of all the changes the leader makes to the database.  Each follower takes the log from the leader and updates its local copy of the database accordingly.
 * **semi-synchronous** 
 A leader-based replication system where one follower is synchronous and the rest are asynchronous.
+* **failover**  
+When the leader fails, and one of the followers is promoted to leader, which means that it must handle all client writes going forward and all followers must consume data changes from the new leader.
+* **read-scaling architecture**  
+In a leader-based architecture, you can increase the capacity for read-only requests by adding more followers.
+* **eventual consistency** 
+If you run the same query on a leader and on an asynchronous follower, you may get different results because not all writes have been reflected in the follower.  This inconsistency is a temporary state; eventually they will be the same.  
+* **replication lag**  
+The delay between a write happening on the leader and being reflected on a follower
+* **read-after-write-consistency** or **read-your-writes consistency**  
+A guarentee that if the user reloads the page, they will always see any updates they submitted themselves.  It makes no promises about aother users' updates.  
+* **moving backward in time**  
+When a reader see older data after previously seeing newer data.  Can happen if you read from different replicas that are not in sync.
+* **monotonic reads**  
+A guarantee that a reader will not go back in time.  One way to do this: always read from the same replica.
+* **consistent prefix reads**  
+If a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order. 
+* **multi-leader replication**  
+A replication architecture which has one leader per datacenter.  
+* **last write wins (LWW)**  
+A way of resolving multi-leader database conflicts.
+* **replication topology**  
+Describes the communication paths between leaders.  Most popular is **all-to-all** because it is most robust to leader failure.  
+* **leaderless replication** or **Dynamo-style**
+A replication architecture in which any replica can accept writes.
+* **anti-entropy process** 
+* **quorum**  
+* **hinted handoff**  
+* **sloppy quorum**  
+* **concurrent**  
+* **version vectors** 
