@@ -7,6 +7,7 @@ Software engineering is like finance in that there is a lot of jargon and you ju
 
 Vocab and definitions come from *Designing Data-Intensive Applications* by Martin Kleppmann. 
 
+### Part I : Foundations of Data Systems
 #### Chapter 1: Reliable, Scalable, Maintainable Applications
 * **data-intensive**  
 An application where a limiting factor is the amount and complexity of the data it uses.  Compare to **compute-intensive** applications, where the limiting factor is CPU power.
@@ -138,3 +139,13 @@ The use of names to identify network resources, rather than their actual locatio
 A middleman which stores messages in an asynchronous message-passing system.
 * **asynchronous**  
 When you execute something synchronously, you wait for it to finish before moving on to another task. When you execute something asynchronously, you can move on to another task before it finishes.
+
+### Part II: Distributed Data
+#### Chapter 5: Replication
+* **replica**
+Each node that stores a copy of the database
+* **leader-based replication**  
+A replication scheme where one replica is designated as the **leader** and the rest are **followers**.  All write requests must go to the leader; followers are read-only.
+* **replication log** or **change stream** 
+* **semi-synchronous** 
+A leader-based replication system where one follower is synchronous and the rest are asynchronous.
