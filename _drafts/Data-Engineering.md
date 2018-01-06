@@ -154,7 +154,7 @@ A leader-based replication system where one follower is synchronous and the rest
 When the leader fails, and one of the followers is promoted to leader, which means that it must handle all client writes going forward and all followers must consume data changes from the new leader.
 * **read-scaling architecture**  
 In a leader-based architecture, you can increase the capacity for read-only requests by adding more followers.
-* **eventual consistency** 
+* **eventual consistency**  
 If you run the same query on a leader and on an asynchronous follower, you may get different results because not all writes have been reflected in the follower.  This inconsistency is a temporary state; eventually they will be the same.  
 * **replication lag**  
 The delay between a write happening on the leader and being reflected on a follower
@@ -172,7 +172,7 @@ A replication architecture which has one leader per datacenter.
 A way of resolving multi-leader database conflicts.
 * **replication topology**  
 Describes the communication paths between leaders.  Most popular is **all-to-all** because it is most robust to leader failure.  
-* **leaderless replication** or **Dynamo-style**
+* **leaderless replication** or **Dynamo-style**  
 A replication architecture in which any replica can accept writes.
 * **anti-entropy process** 
 * **quorum**  
