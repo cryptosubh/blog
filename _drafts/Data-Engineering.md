@@ -10,7 +10,7 @@ Vocab and definitions come from *Designing Data-Intensive Applications* by Marti
 #### Chapter 1: Reliable, Scalable, Maintainable Applications
 * **data-intensive**  
 An application where a limiting factor is the amount and complexity of the data it uses.  Compare to **compute-intensive** applications, where the limiting factor is CPU power.
-* **data systems**
+* **data systems**  
 Examples: databases, caches, search indexes, message queues
 * **reliability**  
 The ability for a system to work correctly, even in the face of software/hardware faults and human errors
