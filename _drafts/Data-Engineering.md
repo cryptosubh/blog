@@ -122,12 +122,19 @@ The API exposed by the server
 * **clients**  
 In networks, the clients are web browsers
 * **microservice architecture** or **service-oriented architecture**  
+A style of software design where services are provided to the other components by application components, through a communication protocol over a network. The basic principles of service-oriented architecture are independent of vendors, products and technologies.  A service is a discrete unit of functionality that can be accessed remotely and acted upon and updated independently.  It is about how to compose an application by integrating distributed, separately-maintained and deployed software components. It is enabled by technologies and standards that make it easier for components to communicate and cooperate over a network, especially an IP network.
 * **web service**  
 When HTTP is used as the underlying protocol for talking to the service
-* **REST**
-* **SOAP**
-* **remote procedure call (RPC)**
-* **location transparency** 
+* **REST**  
+Stands for Representational State Transfer.  Popular approach to web services.  Not a protocol, but a design philosophy that builds upon the principles of HTTP.  Emphasizes simple data formats and is often associated with microservices.
+* **SOAP**  
+XML-based protocol for making network API requests.  Aims to be independent from HTTP.
+* **remote procedure call (RPC)**  
+The technique of making a local call and having it execute on a remote service somewhere.
+* **location transparency**  
+The use of names to identify network resources, rather than their actual location.[
 * **futures (promises)**
-* **message broker** or **message queue**
-* **asynchronous** 
+* **message broker** or **message queue**  
+A middleman which stores messages in an asynchronous message-passing system.
+* **asynchronous**  
+When you execute something synchronously, you wait for it to finish before moving on to another task. When you execute something asynchronously, you can move on to another task before it finishes.
