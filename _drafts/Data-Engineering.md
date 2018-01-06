@@ -174,7 +174,8 @@ A way of resolving multi-leader database conflicts.
 Describes the communication paths between leaders.  Most popular is **all-to-all** because it is most robust to leader failure.  
 * **leaderless replication** or **Dynamo-style**  
 A replication architecture in which any replica can accept writes.
-* **anti-entropy process** 
+* **anti-entropy process**  
+A background process that constantly looks for differences in the data between replicas and copies missing data from one to another.  
 * **quorum**  
 * **hinted handoff**  
 * **sloppy quorum**  
