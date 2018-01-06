@@ -80,7 +80,7 @@ A self-balancing tree data structure that keeps data sorted and allows searches,
 Units which the B-tree breaks the database into - typically about 4KB in size.  Each block or page is written one at a time.
 * **branching factor**  
 The number of references to child pages in one page of the B-tree
-* **leaf page**
+* **leaf page**  
 A page containing individual keys and their values
 * **write-ahead log** or **WAL** or **redo log**  
 An append-only file to which every B-tree modification must be written before it can be applied to the pages of the tree itself.  Used in the event of a database crash.  
