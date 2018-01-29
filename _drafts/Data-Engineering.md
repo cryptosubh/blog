@@ -208,6 +208,19 @@ Once a transaction has committed successfully, any data it has written will not 
 When you read data from the database that has not been committed yet
 * **dirty write**  
 When you overwrite data that has not yet been committed to the database
-* **read committed**  
-Level of transaction isolation which guarantees no dirty read or dirty writes.  Default isolation level for PostgreSQL.  
 * **nonrepeatable read** or **read skew**  
+An anomaly a value read from the database changes during a transaction.
+* **read committed**  
+Level of transaction isolation which guarantees no dirty read or dirty writes.  Allows read skew. Default isolation level for PostgreSQL. 
+* **snapshot isolation**  
+Level of transaction isolation which guarentees no read skew.  Good for long-running, read-only queries such as back-ups and analytics.  Key principle: *readers never block writers, and writers never block readers*.  
+* **lost update**
+* **write skew**
+* **phantom**
+* **materializing conflict**
+* **stored procedure**
+* **two-phase locking**
+* **deadlock**
+* **serializable snapshot isolation**
+* **predicate lock** 
+* **index-range locking** 
