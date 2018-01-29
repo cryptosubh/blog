@@ -177,7 +177,16 @@ A replication architecture in which any replica can accept writes.
 * **anti-entropy process**  
 A background process that constantly looks for differences in the data between replicas and copies missing data from one to another.  
 * **quorum**  
-* **hinted handoff**  
+If there are n replicas, and every write is confirmed by w nodes and every read reads from r nodes, and w + r > n.
 * **sloppy quorum**  
+Writes and reads still require w and r successful responses, but those may include nodes that are not among the designated n 'home' nodes for a value if the home nodes are not available.  
+* **hinted handoff**  
+Once a network interruption is fixed, any writes one node temporarily accepted on behalf of another node are sent to the appropriate 'home' nodes.
 * **concurrent**  
+Two operations where neither knows about or depends the other.
 * **version vectors** 
+The collection of version numbers from all the replicas.  
+
+#### Chapter 6: Partitioning
+* **hot spot**  
+A partition with a disproportionately high load
