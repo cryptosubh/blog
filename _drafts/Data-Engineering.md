@@ -226,3 +226,10 @@ Level of transaction isolation which guarentees no read skew.  Good for long-run
 * **index-range locking** 
 
 #### Chapter 8: The Trouble with Distributed Systems
+
+#### Chapter 9: Consistency and Consensus
+
+### Part III: Derived Data
+#### Chapter 10: Batch Processing
+#### Chapter 11: Stream Processing
+#### Chapter 12: The Future of Data Systems
