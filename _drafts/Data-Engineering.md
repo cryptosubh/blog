@@ -224,3 +224,5 @@ Level of transaction isolation which guarentees no read skew.  Good for long-run
 * **serializable snapshot isolation**
 * **predicate lock** 
 * **index-range locking** 
+
+#### Chapter 8: The Trouble with Distributed Systems
