@@ -184,7 +184,7 @@ Writes and reads still require w and r successful responses, but those may inclu
 Once a network interruption is fixed, any writes one node temporarily accepted on behalf of another node are sent to the appropriate 'home' nodes.
 * **concurrent**  
 Two operations where neither knows about or depends the other.
-* **version vectors** 
+* **version vectors**  
 The collection of version numbers from all the replicas.  
 
 #### Chapter 6: Partitioning
@@ -202,12 +202,12 @@ The safety guarantees provided by transactions: Atomicity, Consistency, Isolatio
 The opposite of **ACID**.  Stands for *Basically Available, Soft State, and Eventual Consistency*.
 * **atomic**  
 Something that cannot be broken into smaller parts
-* **durability** 
+* **durability**  
 Once a transaction has committed successfully, any data it has written will not be forgotten, even if there is a hardware fault or the database crashes.
-* **dirty read** 
+* **dirty read**  
 When you read data from the database that has not been committed yet
-* **dirty write**
+* **dirty write**  
 When you overwrite data that has not yet been committed to the database
-* **read committed**
+* **read committed**  
 Level of transaction isolation which guarantees no dirty read or dirty writes.  Default isolation level for PostgreSQL.  
-* **nonrepeatable read** or **read skew** 
+* **nonrepeatable read** or **read skew**  
