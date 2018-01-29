@@ -190,3 +190,24 @@ The collection of version numbers from all the replicas.
 #### Chapter 6: Partitioning
 * **hot spot**  
 A partition with a disproportionately high load
+
+#### Chapter 7: Transactions
+* **commit**  
+Operation at the end of a successful transation
+* **abort** or **rollback**  
+Operation at the end of an unsuccessful transaction
+* **ACID**  
+The safety guarantees provided by transactions: Atomicity, Consistency, Isolation, and Durability
+* **BASE**  
+The opposite of **ACID**.  Stands for *Basically Available, Soft State, and Eventual Consistency*.
+* **atomic**  
+Something that cannot be broken into smaller parts
+* **durability** 
+Once a transaction has committed successfully, any data it has written will not be forgotten, even if there is a hardware fault or the database crashes.
+* **dirty read** 
+When you read data from the database that has not been committed yet
+* **dirty write**
+When you overwrite data that has not yet been committed to the database
+* **read committed**
+Level of transaction isolation which guarantees no dirty read or dirty writes.  Default isolation level for PostgreSQL.  
+* **nonrepeatable read** or **read skew** 
