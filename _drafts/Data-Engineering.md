@@ -213,14 +213,17 @@ An anomaly in which a value read from the database changes during a transaction.
 * **read committed**  
 Level of transaction isolation which guarantees no dirty read or dirty writes.  Allows read skew. Default isolation level for PostgreSQL. 
 * **snapshot isolation**  
-Level of transaction isolation which guarentees no read skew.  Good for long-running, read-only queries such as back-ups and analytics.  Key principle: *readers never block writers, and writers never block readers*.  
+Level of transaction isolation which guarentees no read skew.  Good for long-running, read-only queries such as back-ups and analytics.  Key principle: *readers never block writers, and writers never block readers*.  Database may need to keep multiple different versions of itself for different queries -- known as **multi-version concurrency control**.
 * **lost update**  
 A write conflict that occurs when two writers read the same value concurrently, then modify it and write it back.  The second write *clobbers* the first write.
-* **write skew**
-* **phantom**
+* **write skew**  
+A race condition involving two concurrent writers.
+* **phantom**  
+When a write in one transaction changes the result of a search query in another transaction. *Writers don't just block other writers, they also block other readers and vice versa*. 
 * **materializing conflict**
 * **stored procedure**
-* **two-phase locking**
+* **two-phase locking**  
+Algorithm for implementing serializability.
 * **deadlock**
 * **serializable snapshot isolation**
 * **predicate lock** 
