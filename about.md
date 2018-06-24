@@ -15,7 +15,7 @@ Anyone familiar with college-level statistics and object-oriented programming.
 musical theater, yoga, bridge, the New York Times crossword puzzle, watching football & basketball
 
 ### Great Thinkers I Admire
-Stephen Sondheim, Nate Silver, Nassim Taleb, Jonathan Haidt, Megan McArdle 
+Stephen Sondheim, Nate Silver, Nassim Taleb, Jonathan Haidt, Jordan Peterson, Megan McArdle 
 
 ### Contact 
 
