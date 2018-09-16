@@ -12,7 +12,7 @@ I'm currently a data scientist at Bloomberg L.P.
 Anyone familiar with college-level statistics and object-oriented programming.  
 
 ### Other Interests
-musical theater, yoga, bridge, the New York Times crossword puzzle, watching football & basketball
+musical theater, weight lifting, frisbee, the New York Times crossword puzzle, watching football & basketball
 
 ### Great Thinkers I Admire
 Stephen Sondheim, Nate Silver, Nassim Taleb, Jonathan Haidt, Jordan Peterson, Megan McArdle 
