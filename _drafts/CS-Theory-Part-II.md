@@ -37,12 +37,3 @@ Consists of small chips known as memory modules.  Can be accessed 100s of times 
 Maintains knowledge about where a given message is in a queue, including whether it has been delivered and acknowledged.  There is one queue index per queue.  
 * **Message Store**  
 A key-value store for messages, shared among all queues in the server.  
-
-**JAVA**
-* **checked exceptions**  
-occur at compile time.  e.g.: FileNotFoundException
-* **uncehecked exceptions**  
-occur at run-time.  e.g.: ArrayIndexOutOfBoundsException
-* **errors**  
-problems such as stack overflow
-* **handle or declare rule**  
