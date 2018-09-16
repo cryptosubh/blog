@@ -32,12 +32,20 @@ A spindle of magnetic disks that stores files you download, install or save.  Di
 * **Random Access Memory (RAM)**  
 Consists of small chips known as memory modules.  Can be accessed 100s of times faster than a hard drive, which is why active programs such as the operating system are loaded into RAM.  RAM on a typical computer is 16GB.  
 
-**Rabbit**
-* **Queue Index**   
-Maintains knowledge about where a given message is in a queue, including whether it has been delivered and acknowledged.  There is one queue index per queue.  
-* **Message Store**  
-A key-value store for messages, shared among all queues in the server.  
-
+* **Tail Recursion**  
+a special case of recursion where the calling function does no more computation after the recursive call.  We can replace with an iterative process taht eliminates the call stack space.
+* **subtyping**  
+e.g. Cat IS-A Animal
+* **variance**  
+how subtyping between aggregate types relates to subtyping between their components
+* **covariant**  
+when a typing rule preserves the ordering of types (e.g. data sources)
+* **contravariant**  
+when a typing rule reverses the ordering of types (e.g. data sinks)
+* **bivariant**  
+when a typing rule is both covariant and contravariant
+* **invariant**  
+when a typing rule is neither covariant nor contravariant (e.g. mutable data sources)
 
 **JAVA**
 * **checked exceptions**  
@@ -48,4 +56,5 @@ occur at run-time.  e.g.: ArrayIndexOutOfBoundsException
 problems such as stack overflow
 * **handle or declare rule**  
 if some code within a method throws a checked exception, then the method must either handle the exception using a try-catch block, or it must declare the exception using the throws keyword.  Else, the code will not compile.
-
+* **type erasure**  
+process by which generic classes are converted by the JVM-compiler to non-generic classes.  casts and type check happen automatically
