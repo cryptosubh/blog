@@ -27,7 +27,6 @@ An operation whereby a process creates a copy of itself. When a process calls fo
 * **Payload**  
 The part of transmitted data that is the actual intended message. The payload excludes any headers or metadata sent solely to facilitate payload delivery.
 
-
 * **Hard Disk/Hard Drive**  
 A spindle of magnetic disks that stores files you download, install or save.  Disk drive space on a typical computer is 2TB.  
 * **Random Access Memory (RAM)**  
@@ -39,4 +38,11 @@ Maintains knowledge about where a given message is in a queue, including whether
 * **Message Store**  
 A key-value store for messages, shared among all queues in the server.  
 
-Messages can be stored directly to queue index, or written to the message store.  Persistent messages will be written to disk as soon as they reach the queue, while transient messages will be written to disk only so that they can be evicted from memory while under memory pressure.  Persistent messages are also kept in memory when possible and only evicted from memory under memory pressure. The "persistence layer" refers to the mechanism used to store messages of both types to disk.  
+**JAVA**
+* **checked exceptions**  
+occur at compile time.  e.g.: FileNotFoundException
+* **uncehecked exceptions**  
+occur at run-time.  e.g.: ArrayIndexOutOfBoundsException
+* **errors**  
+problems such as stack overflow
+* **handle or declare rule**  
