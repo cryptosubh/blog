@@ -9,15 +9,19 @@ Languages may come and go, but theory is forever.  Most of the definitions are c
 A feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class.
 * **Diamond Problem**  
 An ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. If there is a method in A that B and C have overridden, and D does not override it, then which version of the method does D inherit: that of B, or that of C?  It only occurs when multi-inheritance is allowed.  Python mitigates this problem with an order of inheritance determined by the C3 linearization algorithm.  
+* **Object-Oriented Programming**  
+A programming methodology based upon objects instead of functions/procedures.  Objects are grouped into classes which share common structures - i.e. methods and attributes.  Characterized by inheritnace, polymorphism, encapsulation.
+* **Encapsulation**  
+A language construct that facilitates bundling data with the methods that operate on that data
 * **Polymorphism**  
 In English, polymorphism is the condition of occurring in several different forms.  
 In computer science, polymorphism is the provision of a single interface to entities of different types.  It comes in several flavors:  
   - *ad hoc polymorphism*:
   function overloading
   - *parametric polymorphism*:
-  generic programming
+  generic programming.  makes a statically-typed language more expression while maintaining type-safety
   - *subtyping*:
-  when a name denotes instances of many different classes related by some common superclass
+  when a name denotes instances of many different classes related by some common superclass.  e.g. if a function takes an object of type T, if will also work correctly on any subtype S of T
 * **Protocol**  
 A common means for unrelated objects to communicate with each other; definitions of methods and values which the objects agree upon in order to co-operate. Python does not have specific language/syntax for protocols, but other languages do (e.g. Java interfaces).   
 * **Aliasing**  
