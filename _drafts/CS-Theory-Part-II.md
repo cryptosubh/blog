@@ -58,3 +58,13 @@ problems such as stack overflow
 if some code within a method throws a checked exception, then the method must either handle the exception using a try-catch block, or it must declare the exception using the throws keyword.  Else, the code will not compile.
 * **type erasure**  
 process by which generic classes are converted by the JVM-compiler to non-generic classes.  casts and type check happen automatically
+
+**Algorithms**
+* **binary tree**  
+* **binary search tree**  
+* **balanced binary tree**  
+* **AVL tree** 
+* **Splay tree** 
+* **B-tree** 
+* **Red-Black tree** 
+
