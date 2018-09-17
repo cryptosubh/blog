@@ -62,9 +62,9 @@ process by which generic classes are converted by the JVM-compiler to non-generi
 **Algorithms**
 * **binary tree**  
 * **binary search tree**  
-* **balanced binary tree**  
+* **balanced search tree**  
 * **AVL tree** 
 * **Splay tree** 
 * **B-tree** 
-* **Red-Black tree** 
+* **Red-Black tree** or **2-3 tree**   
 
