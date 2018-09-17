@@ -60,11 +60,11 @@ if some code within a method throws a checked exception, then the method must ei
 process by which generic classes are converted by the JVM-compiler to non-generic classes.  casts and type check happen automatically
 
 **Algorithms**
-* **binary tree**  
-* **binary search tree**  
-* **balanced search tree**  
-* **AVL tree** 
-* **Splay tree** 
-* **B-tree** 
-* **Red-Black tree** or **2-3 tree**   
+* **Binary Tree**  
+* **Binary Search Tree**  
+* **Balanced Search Tree**  
+* **AVL Tree** 
+* **Splay Tree** 
+* **B-Tree** 
+* **Red-Black Tree** or **2-3 Tree**   
 
