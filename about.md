@@ -4,9 +4,7 @@ title: About Rachel
 permalink: /about/ 
 ---
 
-I graduated from Princeton in 2013 with a B.A. in Mathematics.  I started this blog to motivate and document my study of data science, and to gain familiarity with github.
-
-I'm currently a data scientist at Bloomberg L.P.  
+I graduated from Princeton in 2013 with a B.A. in Mathematics, and I'm currently a data scientist at Bloomberg L.P.  
 
 ### Intended Audience
 Anyone familiar with college-level statistics and object-oriented programming.  
