@@ -4,7 +4,7 @@ title: About Rachel
 permalink: /about/ 
 ---
 
-I graduated from Princeton in 2013 with a B.A. in Mathematics, and I'm currently a data scientist at Bloomberg L.P.  
+I graduated from Princeton in 2013 with a B.A. in Mathematics, and I'm currently a software engineer at Bloomberg L.P.  
 
 ### Intended Audience
 Anyone familiar with college-level statistics and object-oriented programming.  
