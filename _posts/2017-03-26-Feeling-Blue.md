@@ -3,6 +3,8 @@ layout: post
 title: Feeling Blue
 ---
 
+Trying some equation rendering $P = NP, \phi(X) = e^X + 01$
+
 In statistics, the acronym BLUE stands for Best Linear Unbiased Estimator.  For a while I didn't know this and wondered why the stats paper I was reading kept using capitalized colors to describe a regression.  
 
 What exactly is meant by 'unbiased'?  The bias of an estimator is the difference between the estimator's expected value and the true value of the parameter.  An estimator with zero bias is called unbiased.  An unbiased estimator may wildly overshoot or undershoot on any particular sample, but over many samples large positive errors will cancel out large negative errors and the average error will tend towards zero.
