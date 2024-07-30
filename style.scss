@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: rgb(0, 0, 0);
+	background: $black;
   font: 16px/1.4 $helvetica;
-  color: $white;
+  color: $amber;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $amber;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $amber;
 }
 
 p {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $amber;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $green;
 }
 
 // Specify the color of the selection
