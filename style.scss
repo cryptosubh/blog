@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $black;
-  font: 16px/1.4 $helvetica;
-  color: $amber;
+  font: 16px/1.4 $monospace;
+  color: $white;
 }
 
 .container {
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $amber;
+  font-family: $monospace;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $amber;
+  color: $white;
 }
 
 p {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $amber;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -271,17 +271,17 @@ nav {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
+//.wrapper-footer {
+  //margin-top: 50px;
+  //border-top: 1px solid #ddd;
+  //border-bottom: 1px solid #ddd;
+  //background-color: $lightGray;
+//}
 
-footer {
-  padding: 20px 0;
-  text-align: center;
-}
+//footer {
+  //padding: 20px 0;
+  //text-align: center;
+//}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
