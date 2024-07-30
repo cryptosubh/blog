@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Rachel
+title: About Me
 permalink: /about/ 
 ---
 
-I graduated from Princeton in 2013 with a B.A. in Mathematics, and I'm currently a software engineer at Bloomberg L.P.  
+I am graduate at IISER Mohali in 2013 with a B.A. in Mathematics, and I'm currently a software engineer at Bloomberg L.P.  
 
 ### Intended Audience
 Anyone familiar with college-level statistics and object-oriented programming.  
